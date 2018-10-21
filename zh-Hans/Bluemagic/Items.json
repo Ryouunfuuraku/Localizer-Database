@@ -1,0 +1,809 @@
+{
+  "Items": {
+    "BlushieCharm": {
+      "Name": "Charm of Blushie",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Your hearts shall spell the doom of your enemies\nCan be used by any class\nMade in celebration of blushiemagic's love",
+      "TooltipTranslation": "测测试试"
+    },
+    "AbominationBag": {
+      "Name": "Treasure Bag",
+      "NameTranslation": "测试测试",
+      "Tooltip": "{$CommonItemTooltip.RightClickToOpen}",
+      "TooltipTranslation": "测测试试"
+    },
+    "AbominationBag2": {
+      "Name": "Treasure Bag",
+      "NameTranslation": "测试测试",
+      "Tooltip": "{$CommonItemTooltip.RightClickToOpen}",
+      "TooltipTranslation": "测测试试"
+    },
+    "AbominationMask": {
+      "Name": "Abomination Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "AbominationTrophy": {
+      "Name": "Abomination Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "DimensionalChest": {
+      "Name": "Dimensional Chest",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Steals loot from other dimensions",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementalEye": {
+      "Name": "Elemental Eye",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Permanently increases the number of accessory slots to 7\nCan only be used if the Demon Heart has been used",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementalSprayer": {
+      "Name": "Elemental Sprayer",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Uses gel for ammo, 75% chance to consume gel\nYo I heard you like debuffs, so I...",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementalStaff": {
+      "Name": "Elemental Staff",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Summons mini captive elements to fight for you.\nUses 2 minion slots in total\nYo I heard you like debuffs, so I...",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementalYoyo": {
+      "Name": "Elemental Yoyo",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Yo I heard you like debuffs, so I...",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementResidue": {
+      "Name": "Residual Elements",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "EyeballGlove": {
+      "Name": "Eyeball Glove",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Does not require ammo\nYo I heard you like debuffs, so I...",
+      "TooltipTranslation": "测测试试"
+    },
+    "EyeballTome": {
+      "Name": "Eyeball Tome",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Move while using for the best results.\nYo I heard you like debuffs, so I...",
+      "TooltipTranslation": "测测试试"
+    },
+    "FoulOrb": {
+      "Name": "Foul Orb",
+      "NameTranslation": "测试测试",
+      "Tooltip": "The underworld would like this.",
+      "TooltipTranslation": "测测试试"
+    },
+    "MoltenBar": {
+      "Name": "Molten Bar",
+      "NameTranslation": "测试测试",
+      "Tooltip": "'Pulsing with heat energy'\nThe first item bluemagic123 ever made",
+      "TooltipTranslation": "测测试试"
+    },
+    "MoltenDrill": {
+      "Name": "Molten Drill",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Can mine Lihzahrd Bricks",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumOreGen": {
+      "Name": "Purium Infuser",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Creates pockets of concentrated purity underground",
+      "TooltipTranslation": "测测试试"
+    },
+    "SixColorShield": {
+      "Name": "Six-Color Shield",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Creates elemental energy to protect you when damaged.",
+      "TooltipTranslation": "测测试试"
+    },
+    "CataclysmCrystal": {
+      "Name": "Cataclysm Crystal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Grants one cataclysm point",
+      "TooltipTranslation": "测测试试"
+    },
+    "CataclysmMask": {
+      "Name": "Cataclysm Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "CataclysmTrophy": {
+      "Name": "Cataclysm Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "ChaosCrystal": {
+      "Name": "Chaos Crystal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Grants one chaos point",
+      "TooltipTranslation": "测测试试"
+    },
+    "ChaosSpiritBag": {
+      "Name": "Treasure Bag",
+      "NameTranslation": "测试测试",
+      "Tooltip": "{$CommonItemTooltip.RightClickToOpen}",
+      "TooltipTranslation": "测测试试"
+    },
+    "ChaosSpiritMask": {
+      "Name": "Spirit of Chaos Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "ChaosTrophy": {
+      "Name": "Chaos Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "ChaoticSoul": {
+      "Name": "Chaotic Soul",
+      "NameTranslation": "测试测试",
+      "Tooltip": "'The essence of everything, mashed into chaos'",
+      "TooltipTranslation": "测测试试"
+    },
+    "RitualOfEndings": {
+      "Name": "Ritual Of Endings",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Brings the wrath of the End unto the world\nCan be reused infinitely",
+      "TooltipTranslation": "测测试试"
+    },
+    "BlueDroplet": {
+      "Name": "Blue Droplet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used by the Clentamistation\nImbues the Hallow",
+      "TooltipTranslation": "测测试试"
+    },
+    "Bubble": {
+      "Name": "Bubble",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "BubbleshieldPotion": {
+      "Name": "Bubbleshield Potion",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Increases defense by 12 and reduces damage taken by 12%\nIncompatible with Ironskin and Endurance",
+      "TooltipTranslation": "测测试试"
+    },
+    "Clentamistation": {
+      "Name": "Clentamistation",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Clentaminates items",
+      "TooltipTranslation": "测测试试"
+    },
+    "DarkBlueDroplet": {
+      "Name": "Dark Blue Droplet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used by the Clentamistation\nImbues Glowing Mushrooms",
+      "TooltipTranslation": "测测试试"
+    },
+    "DarkBlueIce": {
+      "Name": "Dark Blue Ice Block",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "DayInvert": {
+      "Name": "Celestial Rune",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Manipulates the sun and moon",
+      "TooltipTranslation": "测测试试"
+    },
+    "FlaskOfEtherealFlames": {
+      "Name": "Flask Of Ethereal Flames",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Melee attacks inflict ethereal flames",
+      "TooltipTranslation": "测测试试"
+    },
+    "FlaskOfFrostburn": {
+      "Name": "Flask Of Frostburn",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Melee attacks inflict frostburn",
+      "TooltipTranslation": "测测试试"
+    },
+    "GreenDroplet": {
+      "Name": "Green Droplet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used by the Clentamistation\nImbues the Purity",
+      "TooltipTranslation": "测测试试"
+    },
+    "HorrorDrop": {
+      "Name": "Horror Drop",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Red as blood",
+      "TooltipTranslation": "测测试试"
+    },
+    "HorrorRune": {
+      "Name": "Horror Rune",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Toggles the horrors from above",
+      "TooltipTranslation": "测测试试"
+    },
+    "IceKey": {
+      "Name": "Ice Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "Icicle": {
+      "Name": "Icicle",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "LunarDrop": {
+      "Name": "Lunar Drop",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Glowing with moonlight",
+      "TooltipTranslation": "测测试试"
+    },
+    "LunarwalkPotion": {
+      "Name": "Lunarwalk Potion",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased movement speed and allows the control of gravity\nIncompatible with Swiftness",
+      "TooltipTranslation": "测测试试"
+    },
+    "MahoganyKey": {
+      "Name": "Mahogany Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "MushroomBrick": {
+      "Name": "Mushroom Brick",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "MushroomBrickWall": {
+      "Name": "Mushroom Brick Wall",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PurpleDroplet": {
+      "Name": "Purple Droplet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used by the Clentamistation\nImbues the Corruption",
+      "TooltipTranslation": "测测试试"
+    },
+    "RedDroplet": {
+      "Name": "Red Droplet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used by the Clentamistation\nImbues the Crimson",
+      "TooltipTranslation": "测测试试"
+    },
+    "ScytheBlade": {
+      "Name": "Scythe Blade",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "Shroomsand": {
+      "Name": "Shroomsand Block",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "Shroomstone": {
+      "Name": "Shroomstone Block",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "SkywareKey": {
+      "Name": "Skyware Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "SolarDrop": {
+      "Name": "Solar Drop",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Burning with sunlight",
+      "TooltipTranslation": "测测试试"
+    },
+    "SpitePotion": {
+      "Name": "Spite Potion",
+      "NameTranslation": "测试测试",
+      "Tooltip": "12% increased damage and critical strike chance\nIncompatible with Wrath and Rage",
+      "TooltipTranslation": "测测试试"
+    },
+    "StoneKey": {
+      "Name": "Stone Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "SunlightPotion": {
+      "Name": "Sunlight Potion",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Emits a strong aura of light and increases night vision\nIncompatible with Shine",
+      "TooltipTranslation": "测测试试"
+    },
+    "WaterKey": {
+      "Name": "Water Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "WoodKey": {
+      "Name": "Wood Key",
+      "NameTranslation": "测试测试",
+      "Tooltip": "A key to a different dimension",
+      "TooltipTranslation": "测测试试"
+    },
+    "DungeonShield": {
+      "Name": "Holy Knight's Shield",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Grants immunity to knockback\nAbsorbs 25% of damage done to players on your team when above 25% life\nYou and players on your team take 7% reduced damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "PaladinEmblem": {
+      "Name": "Paladin Emblem",
+      "NameTranslation": "测试测试",
+      "Tooltip": "The dungeon is growing cold...",
+      "TooltipTranslation": "测测试试"
+    },
+    "PaladinStaff": {
+      "Name": "Paladin Staff",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Summons a mini paladin to fight for you.",
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomBag": {
+      "Name": "Treasure Bag",
+      "NameTranslation": "测试测试",
+      "Tooltip": "{$CommonItemTooltip.RightClickToOpen}",
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomBlade": {
+      "Name": "Phantom Blade",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Projects a phantom blade when swung",
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomHammer": {
+      "Name": "Phantom Hammer",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomMask": {
+      "Name": "Phantom Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomPlate": {
+      "Name": "Phantom Plate",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomShield": {
+      "Name": "Phantom's Shield",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Reduces damage taken by 7%\nPlayers on your team receive this bonus as well",
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomSphere": {
+      "Name": "Phantom Sphere",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Summons a phantom sphere around you",
+      "TooltipTranslation": "测测试试"
+    },
+    "PhantomTrophy": {
+      "Name": "Phantom Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "SpectreGun": {
+      "Name": "Spectre Gun",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Uses wisps as ammo",
+      "TooltipTranslation": "测测试试"
+    },
+    "Wisp": {
+      "Name": "Wisp",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Chases enemies through walls",
+      "TooltipTranslation": "测测试试"
+    },
+    "AvengerSeal": {
+      "Name": "Avenger Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "CelestialLegend": {
+      "Name": "Celestial Legend",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Turns the holder into a werewolf at night and a merfolk when entering water\nIncreases to all stats",
+      "TooltipTranslation": "测测试试"
+    },
+    "CelestialSeal": {
+      "Name": "Celestial Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased magic damage\nGreatly increases pickup range and effectiveness of stars",
+      "TooltipTranslation": "测测试试"
+    },
+    "CrystalDestroyerScope": {
+      "Name": "Crystal Destroyer Scope",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Increases view range for guns (<right> to zoom out)\n25% increased ranged damage and critical strike chance",
+      "TooltipTranslation": "测测试试"
+    },
+    "CrystalVeil": {
+      "Name": "Crystal Veil",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Causes crystals to fall and greatly increases length of invincibility after taking damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "DestroyerSeal": {
+      "Name": "Destroyer Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "25% increased damage\n20% increased critical strike chance",
+      "TooltipTranslation": "测测试试"
+    },
+    "EndlessFlamingQuiver": {
+      "Name": "Endless Flaming Quiver",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "EndlessSilverPouch": {
+      "Name": "Endless Silver Pouch",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "FlamingCrystalGauntlet": {
+      "Name": "Flaming Crystal Gauntlet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Increases melee knockback and inflicts fire damage on attack\n25% increased melee damage and speed",
+      "TooltipTranslation": "测测试试"
+    },
+    "InfinityScarab": {
+      "Name": "Infinity Scarab",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Greatly increases your max number of minions\nGreatly increases the damage and knockback of your minions",
+      "TooltipTranslation": "测测试试"
+    },
+    "MoonlightCharm": {
+      "Name": "Moonlight Charm",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Provides huge life regeneration and greatly reduces the cooldown of healing potions\nIncreases pickup range and effectiveness of hearts",
+      "TooltipTranslation": "测测试试"
+    },
+    "PurityShield": {
+      "Name": "Purity Shield",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Mount - Encases you inside a shield of purity\nInfinite flight and +10% purity shield fill rate\nHold the jump key to move more slowly",
+      "TooltipTranslation": "测测试试"
+    },
+    "RangerSeal": {
+      "Name": "Ranger Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased ranged damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "SorcerorSeal": {
+      "Name": "Sorceror Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased magic damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "SummonerSeal": {
+      "Name": "Summoner Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased summon damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "WarriorSeal": {
+      "Name": "Warrior Seal",
+      "NameTranslation": "测试测试",
+      "Tooltip": "30% increased melee damage",
+      "TooltipTranslation": "测测试试"
+    },
+    "BunnyMask": {
+      "Name": "Bunny Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "BunnyTrophy": {
+      "Name": "Bunny Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "CleanserBeam": {
+      "Name": "Cleanser Beam",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Cleanse your foes, one line at a time.\nWipes out everything within the beam.\nNo enemy armor can survive the destruction!",
+      "TooltipTranslation": "测测试试"
+    },
+    "DanceOfBlades": {
+      "Name": "Dance Of Blades",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Dance the dance of death.\nPurifies the screen of enemies.",
+      "TooltipTranslation": "测测试试"
+    },
+    "ElementalPurge": {
+      "Name": "Elemental Purge",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "InfinityCrystal": {
+      "Name": "Infinity Crystal",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PrismaticShocker": {
+      "Name": "Prismatic Shocker",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Dissolve your foes in a dazzling display.\n<right> to turn off the lights.",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuritySpiritBag": {
+      "Name": "Treasure Bag",
+      "NameTranslation": "测试测试",
+      "Tooltip": "{$CommonItemTooltip.RightClickToOpen}",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuritySpiritMask": {
+      "Name": "Purity Spirit Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuritySpiritTrophy": {
+      "Name": "Spirit of Purity Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "TreeTrophy": {
+      "Name": "Tree Trophy",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "VoidEmblem": {
+      "Name": "Emblem of the Void",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Summons a void emissary to fight alongside you.\nDoes not interfere with your piercing projectiles",
+      "TooltipTranslation": "测测试试"
+    },
+    "VoidMonolith": {
+      "Name": "Void Monolith",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumBreastplate": {
+      "Name": "Purium Breastplate",
+      "NameTranslation": "测试测试",
+      "Tooltip": "10% increased damage and critical strike chance\nIncreases your max number of minions by 1",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumHat": {
+      "Name": "Purium Hat",
+      "NameTranslation": "测试测试",
+      "Tooltip": "15% increased throwing damage, 10% increased throwing critical strike chance\n20% increased throwing velocity, 33% chance to not consume thrown item",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumHeadgear": {
+      "Name": "Purium Headgear",
+      "NameTranslation": "测试测试",
+      "Tooltip": "15% increased magic damage, 10% increased magic critical strike chance\n+80 maximum mana and 15% reduced mana usage",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumHelmet": {
+      "Name": "Purium Helmet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "15% increased melee damage, 10% increased melee critical strike chance\n16% increased melee speed, 4% increased movement speed",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumLeggings": {
+      "Name": "Purium Leggings",
+      "NameTranslation": "测试测试",
+      "Tooltip": "12% increased movement speed",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumMask": {
+      "Name": "Purium Mask",
+      "NameTranslation": "测试测试",
+      "Tooltip": "50% increased minion damage\nIncreases maximum number of minions by 4",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumVisor": {
+      "Name": "Purium Visor",
+      "NameTranslation": "测试测试",
+      "Tooltip": "15% increased ranged damage, 10% increased ranged critical strike chance\n25% chance to not consume ammo",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumAnvil": {
+      "Name": "Purium Anvil",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used to craft items from elemental bars",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumBar": {
+      "Name": "Purium Bar",
+      "NameTranslation": "测试测试",
+      "Tooltip": "'Flowing with power'",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumForge": {
+      "Name": "Purium Forge",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Used to smelt elemental ores",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumOre": {
+      "Name": "Purium Ore",
+      "NameTranslation": "测试测试",
+      "Tooltip": "'Flowing with power'",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumAxe": {
+      "Name": "Purium Axe",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumChainsaw": {
+      "Name": "Purium Chainsaw",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumDrill": {
+      "Name": "Purium Drill",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Can mine Frostbyte",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumHammer": {
+      "Name": "Purium Hammer",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumJackhammer": {
+      "Name": "Purium Jackhammer",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumPickaxe": {
+      "Name": "Purium Pickaxe",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Can mine Frostbyte",
+      "TooltipTranslation": "测测试试"
+    },
+    "PurityTotem": {
+      "Name": "Purity Totem",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Summons a purity wisp to fight for you.",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumArrow": {
+      "Name": "Purium Arrow",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Leaves a trail in its path\nThe trail does not interfere with your piercing projectiles",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumBreaker": {
+      "Name": "Purium Breaker",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumBullet": {
+      "Name": "Purium Bullet",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Bounces at high speeds",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumLightbeam": {
+      "Name": "Purium Lightbeam",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumRepeater": {
+      "Name": "Purium Repeater",
+      "NameTranslation": "测试测试",
+      "Tooltip": "50% chance not to consume ammo",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumShotbow": {
+      "Name": "Purium Shotbow",
+      "NameTranslation": "测试测试",
+      "Tooltip": "50% chance not to consume ammo",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumSlicer": {
+      "Name": "Purium Slicer",
+      "NameTranslation": "测试测试",
+      "Tooltip": null,
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumStaff": {
+      "Name": "Purium Staff",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Casts a controllable sphere of purity",
+      "TooltipTranslation": "测测试试"
+    },
+    "Checkpoint1": {
+      "Name": "The First Ritual",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Enrages the Spirit of Purity at 80% health\nCan be reused infinitely\nEach player starts with {0} lives",
+      "TooltipTranslation": "测测试试"
+    },
+    "Checkpoint2": {
+      "Name": "The Second Ritual",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Enrages the Spirit of Purity at 60% health\nCan be reused infinitely\nEach player starts with {0} lives",
+      "TooltipTranslation": "测测试试"
+    },
+    "Checkpoint3": {
+      "Name": "The Third Ritual",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Enrages the Spirit of Purity at 33% health\nCan be reused infinitely\nEach player starts with {0} lives",
+      "TooltipTranslation": "测测试试"
+    },
+    "CheckpointS": {
+      "Name": "The Final Ritual",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Enrages the Spirit of Purity at 1 health\nCan be reused infinitely\nEach player starts with {0} lives",
+      "TooltipTranslation": "测测试试"
+    },
+    "PuriumCoin": {
+      "Name": "Purium Coin",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Can be crafted to and from 100 platinum coins",
+      "TooltipTranslation": "测测试试"
+    },
+    "RainbowStar": {
+      "Name": "Rainbow Star",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Activates [c/FF0000:G][c/FF7700:O][c/FFFF00:D][c/00FF00:M][c/0000FF:O][c/7700FF:D][c/FF00FF:E]",
+      "TooltipTranslation": "测测试试"
+    },
+    "RitualOfBunnies": {
+      "Name": "Ritual Of Bunnies",
+      "NameTranslation": "测试测试",
+      "Tooltip": "Enrages the Spirit of Purity\nCan be reused infinitely\nEach player starts with 10 lives\nSpirit of Chaos must be defeated first\nWARNING: Use this in the middle of a large open area (eg. the sky)\nIt is highly recommended that you use the Purity Shield [i:4038] mount",
+      "TooltipTranslation": "测测试试"
+    }
+  },
+  "SetBonus": {
+    "PuriumBreastplate": {
+      "SetBonus": "Increases purity shield capacity by 1200",
+      "Translation": "测试啦"
+    }
+  },
+  "ModifyTooltips": {}
+}

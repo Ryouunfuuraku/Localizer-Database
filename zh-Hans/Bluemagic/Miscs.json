@@ -1,0 +1,52 @@
+{
+  "miscs": {
+    "PhantomSummon": {
+      "Default": "You feel something cold leeching your life...",
+      "Translation": "测试！！"
+    },
+    "ElementalUnleash": {
+      "Default": "The elements have been unleashed!",
+      "Translation": "测试！！"
+    },
+    "PuriumOreGen": {
+      "Default": "Your world has been blessed with Purium!",
+      "Translation": "测试！！"
+    },
+    "NPCTalk": {
+      "Default": "<{0}> {1}",
+      "Translation": "测试！！"
+    },
+    "LivesLeft": {
+      "Default": "{0} has {1} lives left!",
+      "Translation": "测试！！"
+    },
+    "LifeLeft": {
+      "Default": "{0} has 1 life left!",
+      "Translation": "测试！！"
+    },
+    "ChaosDpsCap": {
+      "Default": "A heavy pressure protects the chaos from rapid damage.",
+      "Translation": "测试！！"
+    },
+    "ChaosPressureStart": {
+      "Default": "The air grows heavy with chaotic pressure",
+      "Translation": "测试！！"
+    },
+    "ChaosPressureLight": {
+      "Default": "A protective sphere of light has appeared!",
+      "Translation": "测试！！"
+    },
+    "CataclysmCountdown": {
+      "Default": "{0} seconds until the end",
+      "Translation": "测试！！"
+    },
+    "TerraSpiritExpert": {
+      "Default": "The Spirit of Purity is losing control!",
+      "Translation": "测试！！"
+    },
+    "ExtraLives": {
+      "Default": "Everyone has been granted 3 extra lives!",
+      "Translation": "测试！！"
+    }
+  }
+}

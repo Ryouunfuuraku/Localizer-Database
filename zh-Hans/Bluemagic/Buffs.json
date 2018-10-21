@@ -1,0 +1,166 @@
+{
+  "Buffs": {
+    "Bubbleshield": {
+      "Name": "Bubbleshield",
+      "NameTranslation": "测试",
+      "Tip": "Increases defense by 12 and reduces damage taken by 12%",
+      "TipTranslation": "测试"
+    },
+    "ChaosPressure1": {
+      "Name": "Chaos Pressure",
+      "NameTranslation": "测试",
+      "Tip": "Slowly losing life, reduces purity shield fill rate",
+      "TipTranslation": "测试"
+    },
+    "ChaosPressure2": {
+      "Name": "Chaos Pressure",
+      "NameTranslation": "测试",
+      "Tip": "Slowly losing life, reduces purity shield fill rate",
+      "TipTranslation": "测试"
+    },
+    "ChaosPressure3": {
+      "Name": "Chaos Pressure",
+      "NameTranslation": "测试",
+      "Tip": "Slowly losing life, reduces purity shield fill rate",
+      "TipTranslation": "测试"
+    },
+    "ChaosPressure4": {
+      "Name": "Chaos Pressure",
+      "NameTranslation": "测试",
+      "Tip": "Slowly losing life, reduces purity shield fill rate",
+      "TipTranslation": "测试"
+    },
+    "Suppression1": {
+      "Name": "Suppression",
+      "NameTranslation": "测试",
+      "Tip": "25% reduced damage",
+      "TipTranslation": "测试"
+    },
+    "Suppression2": {
+      "Name": "Suppression",
+      "NameTranslation": "测试",
+      "Tip": "50% reduced damage",
+      "TipTranslation": "测试"
+    },
+    "Suppression3": {
+      "Name": "Suppression",
+      "NameTranslation": "测试",
+      "Tip": "75% reduced damage",
+      "TipTranslation": "测试"
+    },
+    "Suppression4": {
+      "Name": "Suppression",
+      "NameTranslation": "测试",
+      "Tip": "100% reduced damage",
+      "TipTranslation": "测试"
+    },
+    "EtherealFlames": {
+      "Name": "Ethereal Flames",
+      "NameTranslation": "测试",
+      "Tip": "Losing life",
+      "TipTranslation": "测试"
+    },
+    "EtherealFlamesEnchant": {
+      "Name": "Weapon Imbue: Ethereal Flames",
+      "NameTranslation": "测试",
+      "Tip": "Melee attacks inflict ethereal flames",
+      "TipTranslation": "测试"
+    },
+    "FrostburnEnchant": {
+      "Name": "Weapon Imbue: Frostburn",
+      "NameTranslation": "测试",
+      "Tip": "Melee attacks inflict frostburn",
+      "TipTranslation": "测试"
+    },
+    "Lunarwalk": {
+      "Name": "Lunarwalk",
+      "NameTranslation": "测试",
+      "Tip": "30% increased movement speed - Press UP to reverse gravity",
+      "TipTranslation": "测试"
+    },
+    "PhantomShield": {
+      "Name": "Phantom Shield",
+      "NameTranslation": "测试",
+      "Tip": "7% reduced damage taken",
+      "TipTranslation": "测试"
+    },
+    "HeroOne": {
+      "Name": "Hero",
+      "NameTranslation": "测试",
+      "Tip": "You are a hero of Terraria!",
+      "TipTranslation": "测试"
+    },
+    "HeroThree": {
+      "Name": "Hero",
+      "NameTranslation": "测试",
+      "Tip": "You are a hero of Terraria! (3 Lives)",
+      "TipTranslation": "测试"
+    },
+    "HeroTwo": {
+      "Name": "Hero",
+      "NameTranslation": "测试",
+      "Tip": "You are a hero of Terraria! (2 Lives)",
+      "TipTranslation": "测试"
+    },
+    "Nullified": {
+      "Name": "Nullified",
+      "NameTranslation": "测试",
+      "Tip": "Your abilities are nullified",
+      "TipTranslation": "测试"
+    },
+    "Undead": {
+      "Name": "Undead",
+      "NameTranslation": "测试",
+      "Tip": "Recovering harms you",
+      "TipTranslation": "测试"
+    },
+    "Undead2": {
+      "Name": "Undead Sickness",
+      "NameTranslation": "测试",
+      "Tip": "You are being harmed by recovery",
+      "TipTranslation": "测试"
+    },
+    "Spite": {
+      "Name": "Spite",
+      "NameTranslation": "测试",
+      "Tip": "12% increased damage and critical strike chance",
+      "TipTranslation": "测试"
+    },
+    "MiniCaptiveElement": {
+      "Name": "Mini Captive Elements",
+      "NameTranslation": "测试",
+      "Tip": "The mini captive elements will fight for you.",
+      "TipTranslation": "测试"
+    },
+    "MiniPaladin": {
+      "Name": "Mini Paladin",
+      "NameTranslation": "测试",
+      "Tip": "A mini paladin will fight for you.",
+      "TipTranslation": "测试"
+    },
+    "PurityShieldMount": {
+      "Name": "Purity Shield",
+      "NameTranslation": "测试",
+      "Tip": "The Spirit of Purity lends you power",
+      "TipTranslation": "测试"
+    },
+    "PurityWisp": {
+      "Name": "Purity Wisp",
+      "NameTranslation": "测试",
+      "Tip": "The purity wisp will fight for you",
+      "TipTranslation": "测试"
+    },
+    "VoidEmissary": {
+      "Name": "Void Emissary",
+      "NameTranslation": "测试",
+      "Tip": "The void emissary will fight alongside you",
+      "TipTranslation": "测试"
+    },
+    "Sunlight": {
+      "Name": "Sunlight",
+      "NameTranslation": "测试",
+      "Tip": "Emitting light and increased night vision",
+      "TipTranslation": "测试"
+    }
+  }
+}

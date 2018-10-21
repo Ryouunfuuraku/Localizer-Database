@@ -1,0 +1,125 @@
+{
+  "NPCs": {
+    "Abomination": {
+      "Name": "The Abomination",
+      "NameTranslation": "测试"
+    },
+    "AbominationRun": {
+      "Name": "The Abomination",
+      "NameTranslation": "测试"
+    },
+    "CaptiveElement": {
+      "Name": "Captive Element",
+      "NameTranslation": "测试"
+    },
+    "CaptiveElement2": {
+      "Name": "Captive Element",
+      "NameTranslation": "测试"
+    },
+    "FreedElement": {
+      "Name": "Freed Element",
+      "NameTranslation": "测试"
+    },
+    "ChaosSpirit": {
+      "Name": "Spirit of Chaos",
+      "NameTranslation": "测试"
+    },
+    "ChaosSpirit2": {
+      "Name": "Spirit of Chaos",
+      "NameTranslation": "测试"
+    },
+    "ChaosSpirit3": {
+      "Name": "Spirit of Chaos",
+      "NameTranslation": "测试"
+    },
+    "ChaosSpiritArm": {
+      "Name": "Spirit of Chaos - Arm",
+      "NameTranslation": "测试"
+    },
+    "Hardmode Guide": {
+      "Name": "Hardmode Guide",
+      "NameTranslation": "测试"
+    },
+    "Phantom": {
+      "Name": "The Phantom",
+      "NameTranslation": "测试"
+    },
+    "PhantomHand": {
+      "Name": "The Phantom",
+      "NameTranslation": "测试"
+    },
+    "PhantomOrb": {
+      "Name": "Phantom Orb",
+      "NameTranslation": "测试"
+    },
+    "PhantomSoul": {
+      "Name": "Phantom Soul",
+      "NameTranslation": "测试"
+    },
+    "PurityShield": {
+      "Name": "Shield of Purity",
+      "NameTranslation": "测试"
+    },
+    "PuritySpirit": {
+      "Name": "Spirit of Purity",
+      "NameTranslation": "测试"
+    },
+    "GoldBlob": {
+      "Name": "Charged Negative Blob",
+      "NameTranslation": "测试"
+    },
+    "GoldBlob2": {
+      "Name": "Charged Negative Blob",
+      "NameTranslation": "测试"
+    },
+    "NegativeBlob": {
+      "Name": "Negative Blob",
+      "NameTranslation": "测试"
+    },
+    "NegativeBlob2": {
+      "Name": "Negative Blob",
+      "NameTranslation": "测试"
+    },
+    "TerraProbe1": {
+      "Name": "Purity Probe",
+      "NameTranslation": "测试"
+    },
+    "TerraProbe2": {
+      "Name": "Purity Probe",
+      "NameTranslation": "测试"
+    },
+    "TerraProbe3": {
+      "Name": "Purity Probe",
+      "NameTranslation": "测试"
+    },
+    "TerraProbe4": {
+      "Name": "Purity Probe",
+      "NameTranslation": "测试"
+    },
+    "TerraProbe5": {
+      "Name": "Purity Probe",
+      "NameTranslation": "测试"
+    },
+    "TerraSpirit": {
+      "Name": "Spirit of Purity",
+      "NameTranslation": "测试"
+    },
+    "TerraSpirit2": {
+      "Name": "Spirit of Purity",
+      "NameTranslation": "测试"
+    }
+  },
+  "ChatLines": {
+    "Hardmode Guide": [
+      {
+        "ChatLine": "Can you please tell ",
+        "Translation": ""
+      },
+      {
+        "ChatLine": " to stop decorating my house with colors?",
+        "Translation": ""
+      }
+    ]
+  },
+  "ChatButtons": {}
+}
