@@ -3,7 +3,12 @@
     {
         "Items": [
             {
-                "Mod": "Bluemagic"
+                "Mod": "Bluemagic",
+                "Author": "test"
+            },
+            {
+                "Mod": "CalamityMod",
+                "Author": "As a song 当歌"
             }
         ]
     }

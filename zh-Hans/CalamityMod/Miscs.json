@@ -1,0 +1,388 @@
+{
+    "Miscs": {
+        "SkyOreText": {
+            "Default": "The ground is glittering with cyan light.",
+            "Translation": "地下闪耀着青色的光芒"
+        },
+        "IceOreText": {
+            "Default": "The ice caves are crackling with frigid energy.",
+            "Translation": "寒冷洞穴因寒气而噼啪作响"
+        },
+        "PlantOreText": {
+            "Default": "Energized plant matter has formed in the underground.",
+            "Translation": "地下开始形成有活力的植物物质"
+        },
+        "TreeOreText": {
+            "Default": "Fossilized tree bark is bursting through the jungle's mud.",
+            "Translation": "化石树皮在丛林的泥土中蔓延."
+        },
+        "AuricOreText": {
+            "Default": "A godly aura has blessed the world's caverns.",
+            "Translation": "虔诚的光芒祝福了这个世界的地下洞穴"
+        },
+        "FutureOreText": {
+            "Default": "A cold and dark energy has materialized in space.",
+            "Translation": "一种冷而暗的能量在天空中出现了"
+        },
+        "UglyBossText": {
+            "Default": "Calamitous creatures now roam free!",
+            "Translation": "灾厄的生物现在这个世界自由的游荡"
+        },
+        "UglyBossText2": {
+            "Default": "The ancient ice spirits have been unbound!",
+            "Translation": "古老的冰雕精华已经被释放了"
+        },
+        "SteelSkullBossText": {
+            "Default": "A blood red inferno lingers in the night...",
+            "Translation": "血红色的地狱在夜里徘徊…… "
+        },
+        "PlantBossText": {
+            "Default": "The ocean depths are trembling.",
+            "Translation": "海洋深处在颤抖"
+        },
+        "BabyBossText": {
+            "Default": "A plague has befallen the Jungle.",
+            "Translation": "瘟疫袭击了丛林里的生命"
+        },
+        "BabyBossText2": {
+            "Default": "An ancient automaton roams the land.",
+            "Translation": "一辆古老的机器在陆地上漫游"
+        },
+        "MoonBossText": {
+            "Default": "The profaned flame blazes fiercely!",
+            "Translation": "亵渎的火焰猛烈燃烧......"
+        },
+        "MoonBossText2": {
+            "Default": "Cosmic terrors are watching...",
+            "Translation": "宇宙的生物正在注视这个世界"
+        },
+        "MoonBossText3": {
+            "Default": "The bloody moon beckons...",
+            "Translation": "血月在招手"
+        },
+        "PlagueBossText": {
+            "Default": "PLAGUE NUKE BARRAGE ARMED, PREPARING FOR LAUNCH!!!",
+            "Translation": "瘟疫导弹就绪，准备发射！！！！ "
+        },
+        "PlagueBossText2": {
+            "Default": "MISSILES LAUNCHED, TARGETING ROUTINE INITIATED!!!",
+            "Translation": "导弹发射，自动瞄准启动！！！！ "
+        },
+        "ProfanedBossText": {
+            "Default": "The air is burning...",
+            "Translation": "空气在燃烧。"
+        },
+        "ProfanedBossText2": {
+            "Default": "Shrieks are echoing from the dungeon.",
+            "Translation": "尖叫声从地牢中回响。"
+        },
+        "ProfanedBossText3": {
+            "Default": "The calamitous beings have been inundated with bloodstone.",
+            "Translation": "灾厄的生物被血石吞没了"
+        },
+        "GhostBossText": {
+            "Default": "The abyssal spirits have been disturbed.",
+            "Translation": "深渊中的灵魂被惊醒了"
+        },
+        "SupremeBossText3": {
+            "Default": "Alright, let's get started.  Not sure why you're bothering.",
+            "Translation": "你是谁，你...为什么会找到我，挑战我吗......."
+        },
+        "SupremeBossText4": {
+            "Default": "You seem so confident...yet painfully ignorant of what has yet to transpire.",
+            "Translation": "看来你很有自信，但你依然不知道能不能打败我。"
+        },
+        "SupremeBossText5": {
+            "Default": "Couldn't leave well enough alone could you?  Everything was going well until you came along.",
+            "Translation": "为什么，你为什么要到这里"
+        },
+        "SupremeBossText6": {
+            "Default": "Brothers, could you assist me for a moment?  Dealing with this fool is growing tiresome.",
+            "Translation": "为了阻止你，我只能这样做了."
+        },
+        "SupremeBossText": {
+            "Default": "Don't worry, I still have plenty of tricks left.",
+            "Translation": "停！你这样做会唤醒他的，他一旦苏醒，这个世界必将再次陷入黑暗."
+        },
+        "SupremeBossText7": {
+            "Default": "Hmm...perhaps I should let the little ones out to play for a while.",
+            "Translation": "红月，为了阻止他，请助我一臂之力."
+        },
+        "SupremeBossText8": {
+            "Default": "Impressive...but still not good enough!",
+            "Translation": "看样子，你很有可能会打败我"
+        },
+        "SupremeBossText9": {
+            "Default": "I'm just getting started!",
+            "Translation": "你，真的能战术他吗"
+        },
+        "SupremeBossText20": {
+            "Default": "What!?  How are you still alive!?",
+            "Translation": "你的实力还不错"
+        },
+        "SupremeBossText21": {
+            "Default": "Just stop!",
+            "Translation": "跟他战斗，想过结果吗，和我一样，嗯？"
+        },
+        "SupremeBossText22": {
+            "Default": "Even if you defeat me you still have my lord to contend with!",
+            "Translation": "你能战胜他，但是不是现在"
+        },
+        "SupremeBossText23": {
+            "Default": "To this day he has yet to lose a battle!",
+            "Translation": "我知道他的实力，要不然你说我怎么会变成这样"
+        },
+        "SupremeBossText24": {
+            "Default": "Not even I could defeat him!  What hope do YOU have!?",
+            "Translation": "我为了解除痛苦，多次与他战斗，但结果都一样"
+        },
+        "SupremeBossText25": {
+            "Default": "He has grown far stronger since we fought...I can't see you defeating him, at least not with your current strength.",
+            "Translation": "自从他把我诅咒之后，他便越来越强大"
+        },
+        "SupremeBossText26": {
+            "Default": "Well...I guess this is the end...",
+            "Translation": "嗯...我想，我也应该结束了"
+        },
+        "SupremeBossText27": {
+            "Default": "Perhaps one of these times I'll change my mind after all these deaths...",
+            "Translation": "也许有一次我会在我死亡之后改变我的想法……"
+        },
+        "SupremeBossText28": {
+            "Default": "You aren't hurting as much as I'd like...are you cheating?",
+            "Translation": "你打败了我，希望不是作弊吧"
+        },
+        "SupremeBossText29": {
+            "Default": "",
+            "Translation": "你的实力还不行，至少，我，可以当你的老师"
+        },
+        "SupremeBossText2": {
+            "Default": "Go to hell.",
+            "Translation": "当你凝视深渊的时候，深渊也在凝视你"
+        },
+        "SupremeBossText10": {
+            "Default": "At long last I am free...no...wait.  I'll just keep coming back, like you.  Funny how that works...isn't it?",
+            "Translation": "终于要结束了，孩子，你的意志很强大"
+        },
+        "SupremeBossText11": {
+            "Default": "Do you enjoy going through hell?",
+            "Translation": "你喜欢穿越地狱吗？"
+        },
+        "SupremeBossText12": {
+            "Default": "Don't get me wrong, I like pain too, but you're just ridiculous.",
+            "Translation": "别误会我，我也喜欢痛苦，但你只是一个笑话罢了"
+        },
+        "SupremeBossText13": {
+            "Default": "You must enjoy dying more than most people, huh?",
+            "Translation": "如果你真的要挑战他的话，请一定要胜利"
+        },
+        "SupremeBossText14": {
+            "Default": "Do you have a fetish for getting killed or something?",
+            "Translation": "你失败了，这个世界就玩完了 "
+        },
+        "SupremeBossText15": {
+            "Default": "Alright, I'm done counting.  You probably died this much just to see what I'd say.",
+            "Translation": "好吧，我知道了，你一定会胜利，我忠心的祝你好运"
+        },
+        "SupremeBossText16": {
+            "Default": "You didn't die at all huh?  Welp, you probably cheated then.  Do it again, for real this time...but here's your reward I guess.",
+            "Translation": "至少，我还能再站，至少，这个世界还有希望"
+        },
+        "SupremeBossText17": {
+            "Default": "One death?  That's it? ...I guess you earned this then.",
+            "Translation": "一死？是这样吗？……我想当时你可能就是这样赢的。"
+        },
+        "SupremeBossText18": {
+            "Default": "Two deaths.  Good job.  Here's your reward.",
+            "Translation": "一起死亡.....干得好..这是你应得奖赏。"
+        },
+        "SupremeBossText19": {
+            "Default": "Third time's the charm huh?  I guess it is.  Here's a special reward.",
+            "Translation": "第三次的魅力是什么？我想是的....这是一个特别的奖赏。"
+        },
+        "EdgyBossText": {
+            "Default": "Don't get cocky, kid!",
+            "Translation": "骄傲只是一种弱者的表现罢了!"
+        },
+        "EdgyBossText2": {
+            "Default": "You think...you can butcher...ME!?",
+            "Translation": "弑神？？，真好的想法 "
+        },
+        "EdgyBossText3": {
+            "Default": "A fatal mistake!",
+            "Translation": "致命的错误"
+        },
+        "EdgyBossText4": {
+            "Default": "Good luck recovering from that!",
+            "Translation": "祝你好运！"
+        },
+        "EdgyBossText5": {
+            "Default": "Delicious...",
+            "Translation": "你将会是我的第一餐"
+        },
+        "EdgyBossText6": {
+            "Default": "Did that hurt?",
+            "Translation": "实力不行，嗯？"
+        },
+        "EdgyBossText7": {
+            "Default": "Nothing personal, kid.",
+            "Translation": "万物的一切尽在神的掌握之中"
+        },
+        "EdgyBossText8": {
+            "Default": "Are you honestly that bad at dodging?",
+            "Translation": "你将被碾碎"
+        },
+        "EdgyBossText9": {
+            "Default": "Of all my segments to get hit by...",
+            "Translation": "尽情攻击吧"
+        },
+        "EdgyBossText10": {
+            "Default": "It's not over yet, kid!",
+            "Translation": "来吧，让我好好陪你玩玩"
+        },
+        "EdgyBossText11": {
+            "Default": "A GOD DOES NOT FEAR DEATH!",
+            "Translation": "生与死，轮回不止"
+        },
+        "EdgyBossText12": {
+            "Default": "You are no god...but I shall feast upon your essence regardless!",
+            "Translation": "万物之灵，必将我我的食物，哈哈哈哈哈哈哈"
+        },
+        "EdgyBossText13": {
+            "Default": "SO WEAK!",
+            "Translation": "在强者眼里，没有弱者的席位"
+        },
+        "EdgyBossText14": {
+            "Default": "YOU FOOL!",
+            "Translation": "太笨了"
+        },
+        "EdgyBossText15": {
+            "Default": "DOES IT HURT!?",
+            "Translation": "神之撕咬，可疼"
+        },
+        "EdgyBossText16": {
+            "Default": "WHY DIDN'T YOU DODGE!?",
+            "Translation": "为何不躲闪"
+        },
+        "EdgyBossText17": {
+            "Default": "NO!  I AM THE ONE ABOVE ALL!  I WILL CONSUME YOUR UNIVERSE!",
+            "Translation": "不！我是最重要的！弱肉强食本是这个世界的生存法则"
+        },
+        "EdgyBossText18": {
+            "Default": "YOU CAN'T BUTCHER A GOD!",
+            "Translation": "你不可能打败神"
+        },
+        "DoGBossText": {
+            "Default": "The frigid moon shimmers brightly.",
+            "Translation": "冰霜之月闪闪发光"
+        },
+        "DoGBossText2": {
+            "Default": "The harvest moon glows eerily.",
+            "Translation": "收获之月发出耀眼的光芒"
+        },
+        "AstralText": {
+            "Default": "A star has fallen from the heavens!",
+            "Translation": "一颗彗星从宇宙深处掉落下来....."
+        },
+        "AstralBossText": {
+            "Default": "The seal of the stars has been broken!  You can now mine Astral Ore!",
+            "Translation": "彗星封印已解除！你可以开采星辉矿了！"
+        },
+        "CalamitasBossText": {
+            "Default": "You underestimate my power...",
+            "Translation": "你低估了我的力量… "
+        },
+        "CalamitasBossText2": {
+            "Default": "The brothers have awoken!",
+            "Translation": "兄弟齐心！！！！"
+        },
+        "CalamitasBossText3": {
+            "Default": "Impressive child, most impressive...",
+            "Translation": "了不起啊!!!了不起啊!!!"
+        },
+        "CalamitasBossText4": {
+            "Default": "The brothers have been reborn!",
+            "Translation": "兄弟......重生！"
+        },
+        "CryogenBossText": {
+            "Default": "Cryogen is derping out!",
+            "Translation": "我觉醒了"
+        },
+        "BloodMoonText": {
+            "Default": "The Blood Moon is rising...",
+            "Translation": "血月正在升起… "
+        },
+        "DargonBossText": {
+            "Default": "The dark sun awaits.",
+            "Translation": "打败飞蛾"
+        },
+        "DargonBossText2": {
+            "Default": "My dragon deems you an unworthy opponent.  You must acquire the power of the dark sun to witness his true power.",
+            "Translation": "我的龙认为你不配是它的对手。你必须获得黑暗太阳的力量来见证他的真正的实力"
+        },
+        "DargonBossText3": {
+            "Default": "My dragon deems you an unworthy opponent.  Snuff out the profaned flame and destroy the god devourer to witness his true power.",
+            "Translation": "我的龙认为你是不配是它的对手。熄灭亵渎的火焰，打败神明吞噬者，来见证他的真正的实力"
+        },
+        "DeathText": {
+            "Default": "Death is active, enjoy the fun.",
+            "Translation": "死亡是必要的，主要享受的乐趣。"
+        },
+        "DeathText2": {
+            "Default": "Death is not active, not fun enough for you?",
+            "Translation": "死亡并不好玩，但对你来说不够有趣？"
+        },
+        "ArmageddonText": {
+            "Default": "Bosses will now kill you instantly.",
+            "Translation": "Boss马上就会杀了你"
+        },
+        "ArmageddonText2": {
+            "Default": "Bosses will no longer kill you instantly.",
+            "Translation": "Boss不会立刻杀死你"
+        },
+        "DefiledText": {
+            "Default": "Your soul is mine...",
+            "Translation": "你的灵魂，现在由我来保管… "
+        },
+        "DefiledText2": {
+            "Default": "Your soul is yours once more...",
+            "Translation": "你的之灵魂归还与你… "
+        },
+        "FlameText": {
+            "Default": "The air is getting warmer around you.",
+            "Translation": "你周围的空气越来越暖和了。"
+        },
+        "BossRushStartText": {
+            "Default": "Hmm?  Ah, another contender.  Very well, may the ritual commence!",
+            "Translation": "嗯？啊，另一个竞争者。很好，开始吧！"
+        },
+        "BossRushTierOneEndText": {
+            "Default": "Hmm?  Oh, you're still alive.  Unexpected and exhilarating, but don't get complacent just yet.",
+            "Translation": "嗯？哦，你还活着。意外和令人振奋，但不要自满。"
+        },
+        "BossRushTierTwoEndText": {
+            "Default": "Hmm?  Persistent aren't you?  Perhaps you have some hope of prosperity, unlike past challengers.",
+            "Translation": "嗯？你不是执着吗？也许你有很大的希望，不像过去的挑战者。"
+        },
+        "BossRushTierThreeEndText": {
+            "Default": "Hmm?  Your perseverance is truly a trait to behold.  You've come further than even the demigods in such a short time.",
+            "Translation": "嗯？你的毅力确实很让人震惊。在这么短的时间里，你甚至比半神还要强大。"
+        },
+        "BossRushTierThreeEndText2": {
+            "Default": "May your skills remain sharp for the last challenges.",
+            "Translation": "愿你的武器在最后的挑战中保持锋利。"
+        },
+        "BossRushTierFourEndText": {
+            "Default": "Hmm?  So you've made it to the final tier, a remarkable feat enviable by even the mightiest of the gods.",
+            "Translation": "嗯？所以你已经到达了最后一关，一个连最强大的神都羡慕的非凡壮举。."
+        },
+        "BossRushTierFourEndText2": {
+            "Default": "Go forth and conquer 'til the ritual's end!",
+            "Translation": "前进，征服，直到挑战结束！"
+        },
+        "BossRushTierFiveEndText": {
+            "Default": "Hmm?  You expected a reward beyond this mere pebble?  Patience, the true reward will come apparent in time...",
+            "Translation": "嗯？你在期待着什么奖励吗？保持耐心，真正的奖励会在不久后到来……"
+        }
+    }
+}

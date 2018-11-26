@@ -1,0 +1,784 @@
+{
+    "Buffs": {
+        "BloodyMary": {
+            "Name": "Bloody Mary",
+            "NameTranslation": "血玛丽",
+            "Tip": "Damage, critical strike chance, movement speed, and melee speed boosted during a Blood Moon, life regen and defense reduced",
+            "TipTranslation": "伤害、暴击、移动速度和近战速度在血月、生命恢复和防御中提升"
+        },
+        "CaribbeanRum": {
+            "Name": "Caribbean Rum",
+            "NameTranslation": "加勒比朗姆酒",
+            "Tip": "Life regen, movement speed, and wing flight time boosted, you are floaty and defense is reduced",
+            "TipTranslation": "生命回复，移动速度，飞行时间增加，，防御能力降低"
+        },
+        "CinnamonRoll": {
+            "Name": "Cinnamon Roll",
+            "NameTranslation": "肉桂卷威士忌",
+            "Tip": "Mana regen rate and fire weapon damage boosted, defense reduced",
+            "TipTranslation": "法力回复率和火焰武器伤害提升，防御减少"
+        },
+        "Everclear": {
+            "Name": "Everclear",
+            "NameTranslation": "埃弗里克",
+            "Tip": "Damage and critical strike chance boosted, life regen and defense reduced",
+            "TipTranslation": "伤害和暴击提升，生命恢复和防御减少"
+        },
+        "EvergreenGin": {
+            "Name": "Evergreen Gin",
+            "NameTranslation": "常绿杜松子酒",
+            "Tip": "Nature-based weapon damage and damage reduction boosted, life regen reduced",
+            "TipTranslation": "基于自然的武器伤害和减伤提升，生命回复减少"
+        },
+        "FabsolVodka": {
+            "Name": "Fab",
+            "NameTranslation": "绝妙",
+            "Tip": "You feel fabulous",
+            "TipTranslation": "你感觉棒极了"
+        },
+        "Fireball": {
+            "Name": "Fireball",
+            "NameTranslation": "火酒",
+            "Tip": "Fire weapon damage boosted, life regen reduced",
+            "TipTranslation": "火力武器伤害提升，生命回复减少"
+        },
+        "GrapeBeer": {
+            "Name": "Grape Beer",
+            "NameTranslation": "葡萄啤酒",
+            "Tip": "Life regen, defense, and movement speed reduced",
+            "TipTranslation": "生命恢复、防御和移动速度降低"
+        },
+        "Margarita": {
+            "Name": "Margarita",
+            "NameTranslation": "玛格丽塔",
+            "Tip": "Immunity to most debuffs, defense and life regen reduced",
+            "TipTranslation": "免疫对大多数减益效果，防御和生命再生降低"
+        },
+        "Moonshine": {
+            "Name": "Moonshine",
+            "NameTranslation": "月酒",
+            "Tip": "Defense and damage reduction boosted, life regen reduced",
+            "TipTranslation": "防御和减少伤害提升，生命回复减少"
+        },
+        "MoscowMule": {
+            "Name": "Moscow Mule",
+            "NameTranslation": "莫斯科骡",
+            "Tip": "Damage, critical strike chance, and knockback boosted, life regen reduced",
+            "TipTranslation": "伤害、暴击，生命回复减少"
+        },
+        "RedWine": {
+            "Name": "Red Wine",
+            "NameTranslation": "红葡萄酒",
+            "Tip": "Life regen reduced",
+            "TipTranslation": "生命恢复"
+        },
+        "Rum": {
+            "Name": "Rum",
+            "NameTranslation": "朗姆酒",
+            "Tip": "Movement speed and life regen boosted, defense reduced",
+            "TipTranslation": "移动速度和生命重获提升，防御减少"
+        },
+        "Screwdriver": {
+            "Name": "Screwdriver",
+            "NameTranslation": "螺丝酒",
+            "Tip": "Piercing projectile damage boosted, life regen reduced",
+            "TipTranslation": "穿透弹伤害增强，生命回复减少"
+        },
+        "StarBeamRye": {
+            "Name": "Star Beam Rye",
+            "NameTranslation": "星束黑麦",
+            "Tip": "Max mana, magic damage, and magic critical strike chance boosted, defense, mana usage, and life regen reduced",
+            "TipTranslation": "最大法力、魔法伤害和魔法爆击几率增加、防御、法力使用和生命回复减少"
+        },
+        "Tequila": {
+            "Name": "Tequila",
+            "NameTranslation": "龙舌兰酒",
+            "Tip": "Damage, critical strike chance, damage reduction, defense, and knockback boosted during daytime, life regen reduced",
+            "TipTranslation": "伤害，暴击率，减伤，防御在白天增加，生命回复减少"
+        },
+        "TequilaSunrise": {
+            "Name": "Tequila Sunrise",
+            "NameTranslation": "龙舌兰日出",
+            "Tip": "Damage, critical strike chance, damage reduction, defense, and knockback boosted during daytime, life regen reduced",
+            "TipTranslation": "伤害，暴击率，减伤，防御在白天增加，生命回复减少"
+        },
+        "Vodka": {
+            "Name": "Vodka",
+            "NameTranslation": "伏特加酒",
+            "Tip": "Damage and critical stike chance boosted, defense and life regen reduced",
+            "TipTranslation": "伤害和暴击增加，防御和生命恢复减少"
+        },
+        "Whiskey": {
+            "Name": "Whiskey",
+            "NameTranslation": "威士忌",
+            "Tip": "Damage, critical strike chance, and knockback boosted, defense reduced",
+            "TipTranslation": "伤害、暴击增强，防御减少"
+        },
+        "WhiteWine": {
+            "Name": "White Wine",
+            "NameTranslation": "白葡萄酒",
+            "Tip": "Magic damage boosted, life regen and defense reduced",
+            "TipTranslation": "魔法伤害提升，生命再生和防御减少"
+        },
+        "AbyssalDivingSuitBuff": {
+            "Name": "Abyssal Diving Suit",
+            "NameTranslation": "深渊潜水服",
+            "Tip": "You are made of metal",
+            "TipTranslation": "哇哦，这就像是一个金属打造成的人"
+        },
+        "AbyssalDivingSuitPlates": {
+            "Name": "Abyssal Diving Suit Plates",
+            "NameTranslation": "潜水服装甲板",
+            "Tip": "The plates will absorb 25% damage",
+            "TipTranslation": "这些板子能吸收25%的伤害"
+        },
+        "AbyssalDivingSuitPlatesBroken": {
+            "Name": "Abyssal Diving Suit Plates Broken",
+            "NameTranslation": "破损装甲板",
+            "Tip": "The plates are regenerating",
+            "TipTranslation": "装甲板正在再生"
+        },
+        "AbyssalFlames": {
+            "Name": "Abyssal Flames",
+            "NameTranslation": "深渊之火",
+            "Tip": "Your soul is being consumed",
+            "TipTranslation": "你的灵魂正在被燃烧"
+        },
+        "AbyssalWeapon": {
+            "Name": "Abyssal Weapon",
+            "NameTranslation": "武器灌注：深渊火",
+            "Tip": "Melee weapons inflict abyssal flames, 15% increased movement speed",
+            "TipTranslation": "近战武器攻击会附带深渊灾火效果，增加15%近战速度"
+        },
+        "AdrenalineMode": {
+            "Name": "Adrenaline Mode",
+            "NameTranslation": "肾上腺素模式",
+            "Tip": "250% (1000% in Death Mode) increased damage.",
+            "TipTranslation": "增加250%（死亡模式1000%）的伤害"
+        },
+        "Afflicted": {
+            "Name": "Afflicted",
+            "NameTranslation": "苦怒",
+            "Tip": "Rage is power",
+            "TipTranslation": "愤怒会赐予你力量"
+        },
+        "AnechoicCoating": {
+            "Name": "Anechoic Coating",
+            "NameTranslation": "消声镀层",
+            "Tip": "Abyssal creature's detection radius reduced",
+            "TipTranslation": "减少深渊生物探测你的机会"
+        },
+        "AngryChicken": {
+            "Name": "Son of Yharon",
+            "NameTranslation": "丛林龙之子",
+            "Tip": "The Son of Yharon will protect you",
+            "TipTranslation": "丛林龙之子将会保护你\n近战攻击会附带圣火效果，增加你的移动速度、生命恢复以及5点防御"
+        },
+        "AquaticStar": {
+            "Name": "Aquatic Star",
+            "NameTranslation": "深渊刺星",
+            "Tip": "The aquatic star will protect you",
+            "TipTranslation": "深渊刺星将会保护你"
+        },
+        "ArmorCrunch": {
+            "Name": "Armor Crunch",
+            "NameTranslation": "装甲碎裂",
+            "Tip": "Your armor is shredded",
+            "TipTranslation": "你的盔甲被撕裂了\n降低66.67%的防御"
+        },
+        "Backfire": {
+            "Name": "Backfire",
+            "NameTranslation": "龙火",
+            "Tip": "Damage, defense, and wing time drastically reduced",
+            "TipTranslation": "伤害，防御和飞行时间大幅减少"
+        },
+        "BloodClot": {
+            "Name": "Blood Clot",
+            "NameTranslation": "凝血块",
+            "Tip": "The blood clot will protect you",
+            "TipTranslation": "凝血块将会保护你\n'你觉得这能吃吗'"
+        },
+        "BrimlingBuff": {
+            "Name": "Brimling",
+            "NameTranslation": "小硫磺火",
+            "Tip": "Protect her or suffer in agony",
+            "TipTranslation": "要么保护她，要么忍受痛苦\n玩家血量低于25%时，会缩进壳里"
+        },
+        "BrimstoneFlames": {
+            "Name": "Brimstone Flames",
+            "NameTranslation": "硫磺火",
+            "Tip": "Rapid health loss",
+            "TipTranslation": "你的生命在飞快流失"
+        },
+        "BrimstoneMount": {
+            "Name": "Brimrose Mount",
+            "NameTranslation": "硫磺玫瑰",
+            "Tip": "The seat is toasty.  That is all",
+            "TipTranslation": "坐起来很暖和，仅此而已\n比UFO更好！不过如果你在空中飘太久，它会缓降"
+        },
+        "BrimstoneWaifu": {
+            "Name": "Brimstone Waifu",
+            "NameTranslation": "硫磺火元素",
+            "Tip": "The brimstone elemental will protect you",
+            "TipTranslation": "硫磺火元素将会保护你"
+        },
+        "BrittleStar": {
+            "Name": "Brittle Star",
+            "NameTranslation": "枯壳刺星",
+            "Tip": "The brittle star will protect you",
+            "TipTranslation": "枯壳刺星将会保护你"
+        },
+        "BurningBlood": {
+            "Name": "Burning Blood",
+            "NameTranslation": "沸血",
+            "Tip": "Your blood is on fire",
+            "TipTranslation": "你的血液正在燃烧"
+        },
+        "Cadence": {
+            "Name": "Cadance",
+            "NameTranslation": "韵律",
+            "Tip": "Your heart is pure",
+            "TipTranslation": "你的心灵变得纯洁了"
+        },
+        "Calamari": {
+            "Name": "Calamari",
+            "NameTranslation": "乌贼",
+            "Tip": "The squid will protect you",
+            "TipTranslation": "深渊乌贼将会保护你"
+        },
+        "CalamitasEyes": {
+            "Name": "Blighted Eyes",
+            "NameTranslation": "枯萎群眼",
+            "Tip": "Calamitas and her brothers will protect you",
+            "TipTranslation": "灾厄与她的兄弟们将会保护你"
+        },
+        "ChaosSpirit": {
+            "Name": "Chaos Spirit",
+            "NameTranslation": "混沌之魂",
+            "Tip": "The chaos spirit will protect you",
+            "TipTranslation": "混沌之魂将会保护你"
+        },
+        "ChibiiBuff": {
+            "Name": "Chibii Devourer",
+            "NameTranslation": "神之子",
+            "Tip": "What? Were you expecting someone else?",
+            "TipTranslation": "哈？你在期待着别人吗？"
+        },
+        "CloudyWaifu": {
+            "Name": "Cloudy Waifu",
+            "NameTranslation": "云元素",
+            "Tip": "The cloud elemental will protect you",
+            "TipTranslation": "云元素将会保护你"
+        },
+        "Corroslime": {
+            "Name": "Corroslime",
+            "NameTranslation": "迷你史莱姆",
+            "Tip": "The corroslime will protect you",
+            "TipTranslation": "迷你史莱姆将会保护你\n'这可比另外一只可爱多了'"
+        },
+        "CosmicEnergy": {
+            "Name": "Cosmic Energy",
+            "NameTranslation": "宇宙能量",
+            "Tip": "The cosmic energy will protect you",
+            "TipTranslation": "宇宙能量将会保护你"
+        },
+        "CosmicFreeze": {
+            "Name": "Cosmic Freeze",
+            "NameTranslation": "绝对零度",
+            "Tip": "You feel as cold as the empty expanse of outer space",
+            "TipTranslation": "你感受到了来自广阔的太空的极寒"
+        },
+        "Cosmilamp": {
+            "Name": "Cosmilamp",
+            "NameTranslation": "宇宙灯笼",
+            "Tip": "The cosmilamp will protect you",
+            "TipTranslation": "宇宙灯笼将会保护你"
+        },
+        "Crimslime": {
+            "Name": "Crimslime",
+            "NameTranslation": "猩红史莱姆",
+            "Tip": "The crimslime will protect you",
+            "TipTranslation": "猩红史莱姆将会保护你"
+        },
+        "CrushDepth": {
+            "Name": "Crush Depth",
+            "NameTranslation": "深渊压力",
+            "Tip": "Aquatic pressure",
+            "TipTranslation": "来自深渊的压力"
+        },
+        "DaedalusCrystal": {
+            "Name": "Daedalus Crystal",
+            "NameTranslation": "代达罗斯水晶",
+            "Tip": "The daedalus crystal will protect you",
+            "TipTranslation": "代达罗斯水晶将会保护你"
+        },
+        "DankCreeper": {
+            "Name": "Dank Creeper",
+            "NameTranslation": "阴湿爬行者",
+            "Tip": "The dank creeper will protect you",
+            "TipTranslation": "阴湿爬行者将会保护你"
+        },
+        "DemonFlames": {
+            "Name": "Demon Flames",
+            "NameTranslation": "恶魔火焰",
+            "Tip": "Another burning debuff",
+            "TipTranslation": "另一种燃烧debuff"
+        },
+        "DrewsSandyWaifu": {
+            "Name": "Sandy Waifu",
+            "NameTranslation": "沙元素",
+            "Tip": "The sand elemental will protect you",
+            "TipTranslation": "沙元素将会保护你"
+        },
+        "ElementalAxe": {
+            "Name": "Elemental Axe",
+            "NameTranslation": "元素之斧",
+            "Tip": "The elemental axe will protect you",
+            "TipTranslation": "元素之斧将会保护你"
+        },
+        "Enraged": {
+            "Name": "Enraged",
+            "NameTranslation": "激怒",
+            "Tip": "Enemies are enraged and do 1.5 times damage",
+            "TipTranslation": "敌人被激怒，造成1.5倍的伤害"
+        },
+        "ExoFreeze": {
+            "Name": "Exo Freeze",
+            "NameTranslation": "霜冻",
+            "Tip": "Cannot move",
+            "TipTranslation": "无法移动"
+        },
+        "ExtremeGrav": {
+            "Name": "Extreme Gravity",
+            "NameTranslation": "极端重力",
+            "Tip": "Your wing time is reduced by 66%, infinite flight is disabled",
+            "TipTranslation": "翅膀飞行时间减少75%,无法无限飞行"
+        },
+        "ExtremeGravity": {
+            "Name": "Icarus' Folly",
+            "NameTranslation": "伊卡洛斯的坠落",
+            "Tip": "Your wing time is reduced by 75%, infinite flight is disabled",
+            "TipTranslation": "翅膀飞行时间减少75%，无法无限飞行"
+        },
+        "Fab": {
+            "Name": "Alicorn",
+            "NameTranslation": "韵律公主",
+            "Tip": "You beat DoG while drunk, you are truly fabulous!",
+            "TipTranslation": "你在醉酒的时候打败了神明吞噬者，你太厉害了！"
+        },
+        "FishAlert": {
+            "Name": "Fish Alert",
+            "NameTranslation": "深渊预警",
+            "Tip": "The abyssal creatures have spotted you!",
+            "TipTranslation": "深渊生物看见你了！"
+        },
+        "Fox": {
+            "Name": "Fox Pet",
+            "NameTranslation": "宠物狐狸",
+            "Tip": "Fox Pet? FOX PET",
+            "TipTranslation": "狐狸宠物?狐狸精"
+        },
+        "FungalClump": {
+            "Name": "Fungal Clump",
+            "NameTranslation": "夜光蘑菇丛",
+            "Tip": "The fungal clump will protect you",
+            "TipTranslation": "夜光蘑菇丛将会保护你"
+        },
+        "GlacialState": {
+            "Name": "Glacial State",
+            "NameTranslation": "冰川",
+            "Tip": "Cannot move and defense is shattered",
+            "TipTranslation": "无法动弹，防御减弱一半"
+        },
+        "GodSlayerCooldown": {
+            "Name": "God Slayer Cooldown",
+            "NameTranslation": "神影冷却",
+            "Tip": "10% increase to all damage; godslayer effect is recharging",
+            "TipTranslation": "增加10%全伤害; 神影套装效果正在再生"
+        },
+        "GodSlayerInferno": {
+            "Name": "God Slayer Inferno",
+            "NameTranslation": "神影之火",
+            "Tip": "Your flesh is burning off",
+            "TipTranslation": "神火的燃烧是致命的"
+        },
+        "GraxDefense": {
+            "Name": "Grax Boost",
+            "NameTranslation": "格拉克斯的激励",
+            "Tip": "Your defenses and muscles are strong",
+            "TipTranslation": "你的防御和力量变得强大了"
+        },
+        "HeartAttack": {
+            "Name": "Heart Attack",
+            "NameTranslation": "心力衰竭",
+            "Tip": "You survived a heart attack.  Boosts life regen and max life.",
+            "TipTranslation": "你在一次心脏病发作中幸免于难. 提升20%最大生命值，增加生命恢复."
+        },
+        "Herring": {
+            "Name": "Herring",
+            "NameTranslation": "双子鲱鱼",
+            "Tip": "The herring will protect you",
+            "TipTranslation": "双子鲱鱼将会保护你"
+        },
+        "HolyInferno": {
+            "Name": "Holy Inferno",
+            "NameTranslation": "圣洁地狱",
+            "Tip": "You've gone too far from the Profaned God!",
+            "TipTranslation": "你离亵渎天神太远了！"
+        },
+        "HolyLight": {
+            "Name": "Holy Flames",
+            "NameTranslation": "圣火",
+            "Tip": "Dissolving from holy light",
+            "TipTranslation": "从圣光中溶解"
+        },
+        "Horror": {
+            "Name": "Horror",
+            "NameTranslation": "恐怖",
+            "Tip": "The horror...",
+            "TipTranslation": "你很害怕...\n防御减半，降低移动速度，伴随有黑暗效果"
+        },
+        "HotE": {
+            "Name": "Heart of the Elements",
+            "NameTranslation": "元素之心",
+            "Tip": "All elementals will protect you",
+            "TipTranslation": "元素们将会守护你"
+        },
+        "IceClasper": {
+            "Name": "Ice Clasper",
+            "NameTranslation": "极地吞噬怪",
+            "Tip": "The ice clasper will protect you",
+            "TipTranslation": "极地吞噬怪将会保护你"
+        },
+        "IceShieldBrokenBuff": {
+            "Name": "Ice Shield Cooldown",
+            "NameTranslation": "冰盾冷却",
+            "Tip": "The shield is regenerating",
+            "TipTranslation": "冰盾正在再生"
+        },
+        "IceShieldBuff": {
+            "Name": "Ice Shield",
+            "NameTranslation": "冰盾",
+            "Tip": "The shield will absorb 50% damage from one hit before breaking",
+            "TipTranslation": "冰盾将会在破裂之前吸收50%伤害"
+        },
+        "Invincible": {
+            "Name": "Invincible",
+            "NameTranslation": "无可匹敌",
+            "Tip": "Immune to damage and most debuffs",
+            "TipTranslation": "免疫伤害和大多数debuff"
+        },
+        "Irradiated": {
+            "Name": "Irradiated",
+            "NameTranslation": "辐照",
+            "Tip": "Your skin is burning off",
+            "TipTranslation": "你的皮肤正在燃烧\n在地底层会消失\n既有益也有害"
+        },
+        "Levi": {
+            "Name": "Levi",
+            "NameTranslation": "利维",
+            "Tip": "Small and cute",
+            "TipTranslation": "小而可爱"
+        },
+        "MarkedforDeath": {
+            "Name": "Marked",
+            "NameTranslation": "标记",
+            "Tip": "Damage reduction reduced",
+            "TipTranslation": "伤害减免降低"
+        },
+        "Mechworm": {
+            "Name": "Mechworm",
+            "NameTranslation": "噬神机械虫",
+            "Tip": "The mechworm will protect you",
+            "TipTranslation": "噬神机械虫将会保护你"
+        },
+        "Molten": {
+            "Name": "Molten",
+            "NameTranslation": "熔融",
+            "Tip": "Resistant to cold effects",
+            "TipTranslation": "抗寒的好效果"
+        },
+        "Mushy": {
+            "Name": "Mushy",
+            "NameTranslation": "伤感黏糊",
+            "Tip": "Increased defense by 10 and increased life regen by 5",
+            "TipTranslation": "增加10点防御和5点生命恢复"
+        },
+        "Nightwither": {
+            "Name": "Nightwither",
+            "NameTranslation": "黑夜枯竭",
+            "Tip": "Incinerated by lunar rays",
+            "TipTranslation": "被黑夜射线焚化"
+        },
+        "NOU": {
+            "Name": "NO U",
+            "NameTranslation": "NO U",
+            "Tip": "O",
+            "TipTranslation": "O"
+        },
+        "Omniscience": {
+            "Name": "Omniscience",
+            "NameTranslation": "全知",
+            "Tip": "You can see everything",
+            "TipTranslation": "获得矿物勘探，生物探测，危险探测效果"
+        },
+        "Phantom": {
+            "Name": "Phantom",
+            "NameTranslation": "幻灵",
+            "Tip": "The phantom will protect you",
+            "TipTranslation": "幻灵将会保护你"
+        },
+        "Plague": {
+            "Name": "Plague",
+            "NameTranslation": "瘟疫",
+            "Tip": "Rotting from the inside",
+            "TipTranslation": "由里腐烂"
+        },
+        "RageMode": {
+            "Name": "Rage Mode",
+            "NameTranslation": "怒气模式",
+            "Tip": "100% (400% in Death Mode) increased damage.  Can be boosted by other items up to 160% (640% in Death Mode).",
+            "TipTranslation": "增加100%（死亡模式400%）的伤害。可以使用其他物品增至160%（死亡模式640%）伤害"
+        },
+        "ReaverOrb": {
+            "Name": "Reaver Orb",
+            "NameTranslation": "掠夺宝珠",
+            "Tip": "The reaver orb will protect you",
+            "TipTranslation": "掠夺宝珠将会守护你"
+        },
+        "ReaverRage": {
+            "Name": "Reaver Rage",
+            "NameTranslation": "掠夺之怒",
+            "Tip": "You are angry",
+            "TipTranslation": "你感到十分愤怒"
+        },
+        "RedDevil": {
+            "Name": "Red Devil",
+            "NameTranslation": "红魔鬼",
+            "Tip": "The red devil will protect you",
+            "TipTranslation": "红魔鬼将会保护你"
+        },
+        "Sandnado": {
+            "Name": "Sandnado",
+            "NameTranslation": "沙暴龙卷",
+            "Tip": "The sandnado will protect you",
+            "TipTranslation": "沙暴龙卷将会保护你"
+        },
+        "SandyWaifu": {
+            "Name": "Sandy Waifu",
+            "NameTranslation": "沙妻",
+            "Tip": "The sand elemental will protect you",
+            "TipTranslation": "沙元素将会保护你"
+        },
+        "ScarfCooldown": {
+            "Name": "Scarf Cooldown",
+            "NameTranslation": "围巾冷却",
+            "Tip": "Your dodge is recharging",
+            "TipTranslation": "你的躲避技巧正在冷却"
+        },
+        "ScarfMeleeBoost": {
+            "Name": "Scarf Boost",
+            "NameTranslation": "躲避冷却",
+            "Tip": "10% increased damage, crit chance, and melee speed",
+            "TipTranslation": "增加10%全武器伤害和暴击"
+        },
+        "ShellBoost": {
+            "Name": "Shell Speed Boost",
+            "NameTranslation": "甲壳提速",
+            "Tip": "Speed is boosted",
+            "TipTranslation": "速度提升"
+        },
+        "Shred": {
+            "Name": "Shred",
+            "NameTranslation": "撕裂",
+            "Tip": "Blood",
+            "TipTranslation": "流血..."
+        },
+        "SilvaCrystal": {
+            "Name": "Silva Crystal",
+            "NameTranslation": "叶棱晶",
+            "Tip": "The crystal will protect you",
+            "TipTranslation": "叶棱晶将会守护你"
+        },
+        "SilvaStun": {
+            "Name": "Silva Stun",
+            "NameTranslation": "昏迷",
+            "Tip": "Can't move",
+            "TipTranslation": "无法移动"
+        },
+        "SirenBobs": {
+            "Name": "Siren",
+            "NameTranslation": "塞壬",
+            "Tip": "You are a siren now",
+            "TipTranslation": "你现在是一个塞壬了"
+        },
+        "SirenBobsAlt": {
+            "Name": "Siren",
+            "NameTranslation": "塞壬",
+            "Tip": "You are a siren now",
+            "TipTranslation": "你现在是一个塞壬了"
+        },
+        "SirenLure": {
+            "Name": "Siren Lure",
+            "NameTranslation": "塞壬的祝福",
+            "Tip": "The siren lure will protect you",
+            "TipTranslation": "塞壬将会守护你"
+        },
+        "SirenWaterSpeed": {
+            "Name": "Siren Speed",
+            "NameTranslation": "塞壬之速",
+            "Tip": "15% increased max speed and acceleration",
+            "TipTranslation": "最大速度和加速度增加了15%"
+        },
+        "SlimeGod": {
+            "Name": "Baby Slime God",
+            "NameTranslation": "史莱姆之神宝宝",
+            "Tip": "The slime god will protect you",
+            "TipTranslation": "史莱姆之神将会保护你"
+        },
+        "SolarSpirit": {
+            "Name": "Solar Spirit",
+            "NameTranslation": "阳魂",
+            "Tip": "The solar spirit will protect you",
+            "TipTranslation": "阳魂将会守护你"
+        },
+        "SolarSpiritGod": {
+            "Name": "Solar God Spirit",
+            "NameTranslation": "日神之魂",
+            "Tip": "The solar god spirit will protect you",
+            "TipTranslation": "日神之魂将会守护你"
+        },
+        "SpiritGeneratorAtkBuff": {
+            "Name": "Spirit Power",
+            "NameTranslation": "灵魂发生:力量",
+            "Tip": "Minion damage boosted by 10%",
+            "TipTranslation": "召唤物伤害提升10%"
+        },
+        "SpiritGeneratorDefBuff": {
+            "Name": "Spirit Defense",
+            "NameTranslation": "灵魂发生：防御",
+            "Tip": "Defense boosted by 5 and damage reduction boosted by 5%",
+            "TipTranslation": "防御增加5，增加5%伤害减免"
+        },
+        "SpiritGeneratorRegenBuff": {
+            "Name": "Spirit Regen",
+            "NameTranslation": "灵魂发生：再生",
+            "Tip": "Regenerating life",
+            "TipTranslation": "再生的生命"
+        },
+        "SquishyBeanBuff": {
+            "Name": "Squishy Bean",
+            "NameTranslation": "黏黏软豆",
+            "Tip": "BEAN MAN. BEAN DO T H E  B EA N IS HER E",
+            "TipTranslation": "BEAN MAN. BEAN DO T H E  B EA N IS HER E"
+        },
+        "StrangeOrb": {
+            "Name": "Young Siren",
+            "NameTranslation": "萝莉塞壬",
+            "Tip": "Small and cute",
+            "TipTranslation": "小而可爱"
+        },
+        "TarraLifeRegen": {
+            "Name": "Tarra Life",
+            "NameTranslation": "泰拉命源",
+            "Tip": "Rapid healing",
+            "TipTranslation": "快速愈合\n+10生命恢复"
+        },
+        "TemporalSadness": {
+            "Name": "Temporal Sadness",
+            "NameTranslation": "时空之殇",
+            "Tip": "You are crying",
+            "TipTranslation": "你在哭"
+        },
+        "TitanScale": {
+            "Name": "Titan Scale",
+            "NameTranslation": "泰坦鳞片",
+            "Tip": "You feel tanky",
+            "TipTranslation": "你感觉到自己像个坦克"
+        },
+        "TyrantsFury": {
+            "Name": "Tyrant's Fury",
+            "NameTranslation": "暴君之怒",
+            "Tip": "30% increased melee damage and crit chance",
+            "TipTranslation": "增加30%的近战伤害和暴击"
+        },
+        "Urchin": {
+            "Name": "Urchin",
+            "NameTranslation": "海胆",
+            "Tip": "The urchin will protect you",
+            "TipTranslation": "海胆将会保护你"
+        },
+        "Valkyrie": {
+            "Name": "Valkyrie",
+            "NameTranslation": "武神",
+            "Tip": "The valkyrie will protect you",
+            "TipTranslation": "武神将会守护你"
+        },
+        "VulnerabilityHex": {
+            "Name": "Vulnerability Hex",
+            "NameTranslation": "漏洞十六进制",
+            "Tip": "You are weak",
+            "TipTranslation": "你变虚弱了"
+        },
+        "Warped": {
+            "Name": "Warped",
+            "NameTranslation": "扭曲",
+            "Tip": "Movement is being warped",
+            "TipTranslation": "运动开始变得扭曲了"
+        },
+        "WeakPetrification": {
+            "Name": "Weak Petrification",
+            "NameTranslation": "石化虚弱",
+            "Tip": "Your vertical movement is weakened",
+            "TipTranslation": "你的垂直运动能力变弱了"
+        },
+        "WhisperingDeath": {
+            "Name": "Whispering Death",
+            "NameTranslation": "悄然死亡",
+            "Tip": "Death approaches",
+            "TipTranslation": "死亡正在逼近"
+        },
+        "XerocRage": {
+            "Name": "Xeroc Rage",
+            "NameTranslation": "克希洛克之怒",
+            "Tip": "Rage of the cosmos",
+            "TipTranslation": "宇宙之怒"
+        },
+        "XerocWrath": {
+            "Name": "Xeroc Wrath",
+            "NameTranslation": "克希洛克的狂怒",
+            "Tip": "Wrath of the cosmos",
+            "TipTranslation": "宇宙之狂怒"
+        },
+        "YharimPower": {
+            "Name": "Yharim's Power",
+            "NameTranslation": "魔君之力",
+            "Tip": "You feel like you can break the world in two...with your bare hands!",
+            "TipTranslation": "你感觉到能将世界撕成两半...仅仅用你的双手"
+        },
+        "Zen": {
+            "Name": "Zen",
+            "NameTranslation": "心如止水",
+            "Tip": "Spawn rates are reduced",
+            "TipTranslation": "因为你的心很平静，所以你的周围也是很平静的"
+        },
+        "Zerg": {
+            "Name": "Zerg",
+            "NameTranslation": "虫潮",
+            "Tip": "Spawn rates are boosted",
+            "TipTranslation": "大大增加怪物生产率"
+        },
+        "ConcoctionCooldown": {
+            "Name": "Concoction Cooldown",
+            "NameTranslation": "混合冷却",
+            "Tip": "Revive is recharging",
+            "TipTranslation": "你需要过会才能喝酒"
+        },
+        "Encased": {
+            "Name": "Encased",
+            "NameTranslation": "钢筋铁骨",
+            "Tip": "30 defense and +30% damage reduction, but...",
+            "TipTranslation": "30防御和+30％伤害减免，但......"
+        }
+    }
+}
