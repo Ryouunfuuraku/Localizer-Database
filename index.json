@@ -4,11 +4,13 @@
         "Items": [
             {
                 "Mod": "Bluemagic",
-                "Author": "test"
+                "Author": "test",
+                "Version": 0
             },
             {
                 "Mod": "CalamityMod",
-                "Author": "As a song 当歌"
+                "Author": "As a song 当歌",
+                "Version": 0
             }
         ]
     }

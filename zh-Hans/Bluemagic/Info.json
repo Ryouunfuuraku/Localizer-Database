@@ -1,5 +1,7 @@
 {
   "Mod": "Bluemagic",
   "Translator": "??",
-  "Description": "Test"
+  "Description": "Test",
+  "Version": 0,
+  "Culture": "zh-Hans"
 }
