@@ -1,17 +1,14 @@
 {
-    "zh_hans": 
-    {
-        "Items": [
-            {
-                "Mod": "Bluemagic",
-                "Author": "test",
-                "Version": 1
-            },
-            {
-                "Mod": "CalamityMod",
-                "Author": "As a song 当歌",
-                "Version": 0
-            }
-        ]
-    }
+    "Items": [
+        {
+            "Mod": "Bluemagic",
+            "Author": "test",
+            "Version": 1
+        },
+        {
+            "Mod": "CalamityMod",
+            "Author": "As a song 当歌",
+            "Version": 0
+        }
+    ]
 }
