@@ -1,0 +1,1319 @@
+{
+  "Items": {
+    "circletester": {
+      "Name": "Circle Spawner",
+      "NameTranslation": "Circle Spawner",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.circletester"
+    },
+    "AmberNecklace": {
+      "Name": "Amber Necklace",
+      "NameTranslation": "琥珀项链",
+      "Tooltip": "10% Increased life regen",
+      "TooltipTranslation": "增加10%生命恢复"
+    },
+    "AmethystNecklace": {
+      "Name": "Amethyst Necklace",
+      "NameTranslation": "紫晶项链",
+      "Tooltip": "9% Increased endurance and +4 defense.",
+      "TooltipTranslation": "增加9%耐力和4点防御"
+    },
+    "AncientLegendNecklace": {
+      "Name": "Ancient Legend Necklace",
+      "NameTranslation": "古代传说项链",
+      "Tooltip": "A ancient necklace that seems to seal energy.\n12% reduced ki usage\n9% increased ki damage\n-500 max ki",
+      "TooltipTranslation": "一条古老的项链似乎隐藏着力量.\n减少12%气的消耗\n增加9%气的伤害\n-500气上限"
+    },
+    "AncientLegendWaistCape": {
+      "Name": "Ancient Legend Waistcape",
+      "NameTranslation": "古代传奇腰带",
+      "Tooltip": "A ancient garment made of a ki enhancing material.\n14% reduced ki usage\n6% increased ki damage\n-250 max ki",
+      "TooltipTranslation": "使用增强气力量的材料制成的服装.\n减少14%气的消耗\n增加6%气的伤害\n-250气上限"
+    },
+    "ArmCannon": {
+      "Name": "Arm Cannon",
+      "NameTranslation": "增幅臂铠",
+      "Tooltip": "An old arm blaster used by many soldiers.\n10% Reduced Ki usage\nIncreased charge speed",
+      "TooltipTranslation": "许多士兵使用的增幅臂铠.\n减少10%气的消耗\n增加聚气速度"
+    },
+    "BaldurEssentia": {
+      "Name": "Baldur Essentia",
+      "NameTranslation": "博德本质",
+      "Tooltip": "The essence of strong defense.\nCharging grants a protective barrier that grants drastically increased defense",
+      "TooltipTranslation": "拥有强大的防御力.\n聚气时提供额外的防御"
+    },
+    "BattleKit": {
+      "Name": "Battle Kit",
+      "NameTranslation": "战斗工具",
+      "Tooltip": "'A generic kit of tools for the average soldier.'\n6% Increased Ki damage\n10% Reduced Ki usage\nHunter effect + Increased charge speed\n15% Increased ki cast speed",
+      "TooltipTranslation": "'许多士兵使用的基本战斗工具.'\n增加6%气的伤害\n减少10%气的消耗\n显示敌人并增加聚气速度\n增加15%蓄力速度"
+    },
+    "BlackDiamondShell": {
+      "Name": "Black Diamond Shell",
+      "NameTranslation": "黑色钻石背壳",
+      "Tooltip": "A jeweled turtle shell that gets the attention of many creatures, for some reason it's unbelievably tough.\n12% increased ki damage, 14% increased ki knockback.\n+200 Max Ki.\nGetting hit restores a small amount of Ki.",
+      "TooltipTranslation": "一种稀有物种的龟壳,异常的坚韧.\n增加12%气的伤害, 增加14%气的击退力.\n+200气上限.\n被击中时回复少量的气."
+    },
+    "BloodstainedBandana": {
+      "Name": "Bloodstained Bandana",
+      "NameTranslation": "染血头巾",
+      "Tooltip": "'Change the future.'\n14% Increased Ki damage\nThorns effect.",
+      "TooltipTranslation": "'改变未来！.'\n增加14%气的伤害\n荆棘之力."
+    },
+    "BuldariumSigmite": {
+      "Name": "Buldarium Sigmite",
+      "NameTranslation": "升级的博得本质",
+      "Tooltip": "'A fragment of the god of defense's soul.'\nCharging grants a protective barrier that grants massively increased defense\nCharging also grants drastically increased life regen\nIncreased ki charge rate",
+      "TooltipTranslation": "'防御之神的灵魂碎片.'\n聚气时提供更多的防御\n聚气时会增加生命恢复\n增加聚气速度"
+    },
+    "BurningEnergyAmulet": {
+      "Name": "Burning Energy Amulet",
+      "NameTranslation": "燃烧能量护身符",
+      "Tooltip": "'A glowing amulet that radiates with extreme heat.'\n5% Increased Ki damage\n+200 Max ki\nCharging grants a aura of fire around you.",
+      "TooltipTranslation": "'散发着光热的护身符'\n增加5%气的伤害\n+200气上限\n聚气时让你散射热能！."
+    },
+    "CrystalliteAlleviate": {
+      "Name": "Aspera Crystallite",
+      "NameTranslation": "纯净的晶体",
+      "Tooltip": "'The essence of pure energy lives within the crystal.'\nDrastically Increased speed while charging\n+2500 Max ki",
+      "TooltipTranslation": "'纯净的能量晶体.'\n聚气速度更快\n+2500气上限"
+    },
+    "CrystalliteControl": {
+      "Name": "Imperium Crystallite",
+      "NameTranslation": "浑浊的晶体",
+      "Tooltip": "'The essence of pure ki control lives within the crystal.'\nIncreased speed while charging\n+500 Max ki",
+      "TooltipTranslation": "'浑浊的能量晶体.'\n提高聚气速度\n+500气上限"
+    },
+    "CrystalliteFlow": {
+      "Name": "Influunt Crystallite",
+      "NameTranslation": "净化的晶体",
+      "Tooltip": "'The essence of a calm flowing spirit lives within the crystal.'\nGreatly Increased speed while charging\n+1000 Max ki",
+      "TooltipTranslation": "'净化的能量晶体.'\n提高更多聚气速度\n+1000气上限"
+    },
+    "DiamondNecklace": {
+      "Name": "Diamond Necklace",
+      "NameTranslation": "钻石项链",
+      "Tooltip": "9% Increased melee damage and speed.",
+      "TooltipTranslation": "增加9%近战伤害和速度."
+    },
+    "DragonGemNecklace": {
+      "Name": "Dragon Gem Necklace",
+      "NameTranslation": "巨龙宝珠项链",
+      "Tooltip": "'Infused with the essence of the dragon.'\nAll effects of the previous necklaces, some enhanced.",
+      "TooltipTranslation": "'里面融入了巨龙的精华.'\n增强提供所有项链的效果."
+    },
+    "EarthenArcanium": {
+      "Name": "Earthen Arcanium",
+      "NameTranslation": "地球核心",
+      "Tooltip": "'A core of the pure energy of the earth.'\n10% Increased ki damage\nIncreased ki regen\nReduced flight ki usage\n+1 Max Charges\nIncreased flight speed\nThe longer you charge the more ki you charge, limits at +500%.",
+      "TooltipTranslation": "'地球能量的核心.'\n增加10%气的伤害\n增加气的恢复\n减少战斗消耗的气\n聚气的恢复量+1\n增加战斗速度\n聚气时间越长恢复越快, 上限500%."
+    },
+    "EarthenScarab": {
+      "Name": "Earthen Scarab",
+      "NameTranslation": "地球甲虫",
+      "Tooltip": "'The soul of the land seems to give it life.'\n4% Increased ki damage\nIncreased flight speed\nThe longer you charge the more ki you charge, limits at +500%.",
+      "TooltipTranslation": "'这片土地赋予了它灵魂.'\n增加4%气的伤害\n增加战斗速度\n聚气时间越长恢复越快, 上限500%."
+    },
+    "EarthenSigil": {
+      "Name": "Earthen Sigil",
+      "NameTranslation": "地球印记",
+      "Tooltip": "'The soul of the land lives within.'\n6% Increased ki damage\nIncreased ki regen\nReduced flight ki usage\n+1 Max Charges",
+      "TooltipTranslation": "'灵魂生活在这片土地.'\n增加6%气的伤害\n增加气的恢复\n减少战斗消耗的气\n聚气的恢复量+1"
+    },
+    "EmeraldNecklace": {
+      "Name": "Emerald Necklace",
+      "NameTranslation": "祖母绿项链",
+      "Tooltip": "9% Increased ranged damage and crit chance.",
+      "TooltipTranslation": "增加9%远程伤害和暴击率."
+    },
+    "EndlessKi": {
+      "Name": "Endless Ki",
+      "NameTranslation": "无尽的气",
+      "Tooltip": "'The hearts of the gods above gods.'\n+1500000 Max Ki\nNear Infinite Ki Regen",
+      "TooltipTranslation": "'超越神！.'\n+1500000气上限\n接近无限的气恢复能力"
+    },
+    "GoblinKiEnhancer": {
+      "Name": "Goblin Ki Enhancer",
+      "NameTranslation": "哥布林气增幅器",
+      "Tooltip": "'A relic of the ancient goblins.'\n+500 Max ki\nGetting hit grants massively increased ki regen for a short time.",
+      "TooltipTranslation": "'古代哥布林的遗物.'\n+500气上限\n受到攻击时短时间内能大量增加气的回复速度."
+    },
+    "IceTalisman": {
+      "Name": "Ice Energy Talisman",
+      "NameTranslation": "冰冻能量护身符",
+      "Tooltip": "'A frozen talisman that seems to make even your soul cold.'\n7% Increased Ki damage\nIncreased Ki regen\nCharging grants a aura of frostburn around you.",
+      "TooltipTranslation": "'散发着寒冰能量的护身符.'\n增加7%气的伤害\n增加气恢复\n聚气时使用冰焰灼烧敌人."
+    },
+    "InfuserAmber": {
+      "Name": "Amber Ki Infuser",
+      "NameTranslation": "琥珀灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts ichor.",
+      "TooltipTranslation": "气的攻击造成脓水效果."
+    },
+    "InfuserAmethyst": {
+      "Name": "Amethyst Ki Infuser",
+      "NameTranslation": "紫晶灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts shadowflame.",
+      "TooltipTranslation": "气的攻击造成暗影火焰."
+    },
+    "InfuserDiamond": {
+      "Name": "Diamond Ki Infuser",
+      "NameTranslation": "钻石灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts confusion.",
+      "TooltipTranslation": "气的攻击造成混乱效果."
+    },
+    "InfuserEmerald": {
+      "Name": "Emerald Ki Infuser",
+      "NameTranslation": "祖母绿灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts poison.",
+      "TooltipTranslation": "气的攻击造成中毒效果."
+    },
+    "InfuserRainbow": {
+      "Name": "Dragon Crystal Infuser",
+      "NameTranslation": "巨龙结晶灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts a multitude of debuffs.",
+      "TooltipTranslation": "气的攻击附加大多数的负面效果."
+    },
+    "InfuserRuby": {
+      "Name": "Ruby Ki Infuser",
+      "NameTranslation": "红宝石灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts bleeding.",
+      "TooltipTranslation": "气的攻击造成流血效果."
+    },
+    "InfuserSapphire": {
+      "Name": "Sapphire Ki Infuser",
+      "NameTranslation": "蓝宝石灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts frostburn.",
+      "TooltipTranslation": "气的攻击造成冰焰灼烧."
+    },
+    "InfuserTopaz": {
+      "Name": "Topaz Ki Infuser",
+      "NameTranslation": "黄玉灌注器",
+      "Tooltip": "Hitting enemies with ki attacks inflicts on fire.",
+      "TooltipTranslation": "气的攻击造成点燃效果."
+    },
+    "KaioCrystal": {
+      "Name": "Kaio Crystal",
+      "NameTranslation": "界王晶体",
+      "Tooltip": "'A spiritual fragment of one of the legendary Kais.'\nAll Kaioken forms drain half as much health\n30% less max ki",
+      "TooltipTranslation": "'界王的精神碎片.'\n界王拳消耗的生命值减半\n减少30%的气上限"
+    },
+    "KiChip": {
+      "Name": "Ki Chip",
+      "NameTranslation": "气芯片",
+      "Tooltip": "'A piece of a ki fragment.'\nIncreased ki charge rate",
+      "TooltipTranslation": "'一片气的芯片.'\n增加聚气恢复量"
+    },
+    "LargeTurtleShell": {
+      "Name": "Large Turtle Shell",
+      "NameTranslation": "大龟壳",
+      "Tooltip": "'A turtle shell with an odd resemblence to the turtle hermit.'\n7% increased ki damage, 8% increased ki knockback.",
+      "TooltipTranslation": "'一个巨大的龟壳.'\n增加7%气的伤害, 增加8%气的击退力."
+    },
+    "LuminousSectum": {
+      "Name": "Luminous Sectum",
+      "NameTranslation": "发光切片",
+      "Tooltip": "'It radiates with unstable energy.'\n9% increased ki damage\n+250 max ki\nHitting enemies has a small chance to fire off homing ki sparks.",
+      "TooltipTranslation": "'散发着不稳定的气息.'\n增加9%气的伤害\n+250气上限\n击中敌人小概率获得一个回复气体的火花."
+    },
+    "MajinNucleus": {
+      "Name": "Majin Nucleus",
+      "NameTranslation": "魔人核心",
+      "Tooltip": "'The pulsing nucleus of a invicible being.'\nMassivly increased health regen\nMassivly increased ki regen\n-1500 max ki",
+      "TooltipTranslation": "'魔人的核心.'\n大量增加生命恢复\n大量增加气的恢复\n-1500气上限"
+    },
+    "MetamoranSash": {
+      "Name": "Metamoran Sash",
+      "NameTranslation": "合体后的腰带",
+      "Tooltip": "'Your own bad energy will be your undoing!'\n10% Increased Ki damage\n30% Reduced Ki usage\n15% chance to do double damage.",
+      "TooltipTranslation": "'不稳定的合体会让你变得二逼无比!'\n增加10%气的伤害\n减少30%气的消耗\n15%造成双倍伤害."
+    },
+    "PureEnergyCirclet": {
+      "Name": "Pure Energy Circlet",
+      "NameTranslation": "能量精华圆环",
+      "Tooltip": "'It radiates a unbelievably pure presence.'\n12% Increased Ki damage\nIncreased Ki regen\n+300 Max Ki\nCharging grants a aura of inferno and frostburn around you.",
+      "TooltipTranslation": "'散发着纯粹的气息.'\n增加12%气的伤害\n增加气恢复\n+300气上限\n聚气会给你提供地狱和霜冻的光环."
+    },
+    "RadiantGlider": {
+      "Name": "Radiant Glider",
+      "NameTranslation": "能量翼",
+      "Tooltip": "Allows flight and slow fall.",
+      "TooltipTranslation": "允许飞翔和缓慢降落."
+    },
+    "RadiantTotem": {
+      "Name": "Radiant Totem",
+      "NameTranslation": "能量图腾",
+      "Tooltip": "'It explodes with radiant energy.'\n12% Increased Ki damage\n+500 Max Ki\nDrastically increased ki regen",
+      "TooltipTranslation": "'能量爆炸.'\n增加12%气的伤害\n+500气上限\n增加更多气的恢复"
+    },
+    "RubyNecklace": {
+      "Name": "Ruby Necklace",
+      "NameTranslation": "红宝石项链",
+      "Tooltip": "9% Increased magic damage and crit chance.",
+      "TooltipTranslation": "增加9%魔法伤害和暴击."
+    },
+    "SapphireNecklace": {
+      "Name": "Sapphire Necklace",
+      "NameTranslation": "蓝宝石项链",
+      "Tooltip": "9% Increased ki damage and +100 max ki.",
+      "TooltipTranslation": "增加9%气的伤害和+100气上限."
+    },
+    "ScouterT2": {
+      "Name": "Green Scouter",
+      "NameTranslation": "绿色战斗力侦测器",
+      "Tooltip": "'A Piece of equipment used for scanning powerlevels.'\nIncreased Ki Damage and Hunter effect.\n-Tier 2-",
+      "TooltipTranslation": "'垃圾装备.'\n增加气的伤害和侦测敌人.\n-2级-"
+    },
+    "ScouterT3": {
+      "Name": "Blue Scouter",
+      "NameTranslation": "蓝色战斗力侦测器",
+      "Tooltip": "'A Piece of equipment used for scanning powerlevels.'\nGives Increased Ki Damage and Hunter effect.\n--Tier 3--",
+      "TooltipTranslation": "'还行凑合.'\n增加气的伤害和侦测敌人.\n--3级--"
+    },
+    "ScouterT4": {
+      "Name": "Red Scouter",
+      "NameTranslation": "红色战斗力侦测器",
+      "Tooltip": "'A Piece of equipment used for scanning powerlevels.'\nGives Increased Ki Damage and Hunter effect.\n--Tier 4--",
+      "TooltipTranslation": "'还好不错.'\n增加气的伤害和侦测敌人.\n--4级--"
+    },
+    "ScouterT5": {
+      "Name": "Purple Scouter",
+      "NameTranslation": "紫色战斗力侦测器",
+      "Tooltip": "'A Piece of equipment used for scanning powerlevels.'\nGives Increased Ki Damage and Hunter effects.\n--Tier 5--",
+      "TooltipTranslation": "'很棒的玩意.'\n增加气的伤害和侦测敌人.\n--5级--"
+    },
+    "ScouterT6": {
+      "Name": "Yellow Scouter",
+      "NameTranslation": "黄色战斗力侦测器",
+      "Tooltip": "'A Piece of equipment used for scanning powerlevels.'\nGives Increased Ki Damage and Hunter effects.\n-Tier 6-",
+      "TooltipTranslation": "'顶级了.'\n增加气的伤害和侦测敌人.\n-6级-"
+    },
+    "SenzuBag": {
+      "Name": "Senzu Bean Bag",
+      "NameTranslation": "仙豆带子",
+      "Tooltip": "Reduces cooldown on senzu bean consumption",
+      "TooltipTranslation": "减少仙豆的食用冷却"
+    },
+    "SpiritCharm": {
+      "Name": "Spirit Charm",
+      "NameTranslation": "精神魅力",
+      "Tooltip": "'An emblem enscribed with markings of the dragon.'\n20% Increased Ki Damage\nAll damage increased by 14%\n+500 Maximum ki\n12% reduced damage\n+3 max minions\nGreatly increased life regen\nAll crit increased by 12%.",
+      "TooltipTranslation": "'徽章上有龙的印记.'\n增加20%气的伤害\n所有伤害增加14%\n+500气上限\n减少12%受伤\n+3召唤位\n增加大量生命恢复\n所有暴击率12%."
+    },
+    "SpiritualEmblem": {
+      "Name": "Spiritual Emblem",
+      "NameTranslation": "精神徽章",
+      "Tooltip": "'The emblem seems to have weird writing inscribed on it.'\n15% Increased Ki Damage.",
+      "TooltipTranslation": "'徽章上刻有奇怪的文字.'\n增加15%气的伤害."
+    },
+    "TimeRing": {
+      "Name": "Time Ring",
+      "NameTranslation": "时间指环",
+      "Tooltip": "'The sacred ring of the kais'\nDrastically increased health regen\nDrastically increased ki regen.",
+      "TooltipTranslation": "'界王的戒指'\n大量增加气和生命恢复."
+    },
+    "TopazNecklace": {
+      "Name": "Topaz Necklace",
+      "NameTranslation": "黄玉项链",
+      "Tooltip": "9% Increased minion damage and +1 max minions.",
+      "TooltipTranslation": "增加9%召唤物伤害\n+1召唤位."
+    },
+    "GreenPotara": {
+      "Name": "Green Potaras",
+      "NameTranslation": "绿色耳环",
+      "Tooltip": "'A useful pair of earrings used by the kais.'",
+      "TooltipTranslation": "'界王的耳环.'"
+    },
+    "WornGloves": {
+      "Name": "Worn Gloves",
+      "NameTranslation": "破损的拳套",
+      "Tooltip": "10% Increased ki cast speed\n6% Increased ki damage",
+      "TooltipTranslation": "增加10%蓄力速度\n增加6%气的伤害"
+    },
+    "ZenkaiCharm": {
+      "Name": "Zenkai Charm",
+      "NameTranslation": "Z魅力",
+      "Tooltip": "'A charm that harnesses the true power of a saiyan.'\n8% increased ki damage\nTaking fatal damage will instead return you to 50 hp\nand grant x2 damage for a short time.\n2 Minute cooldown",
+      "TooltipTranslation": "'赛亚人的力量.'\n增加8%气的伤害\n受到致命伤恢复50生命并在短时间内可以造成两倍伤害.\n两分钟冷却"
+    },
+    "AdamantiteVisor": {
+      "Name": "Adamantite Visor",
+      "NameTranslation": "精金战斗头盔",
+      "Tooltip": "12% Increased Ki Damage\n10% Increased Ki Crit Chance\nMaximum Ki increased by 250.",
+      "TooltipTranslation": "增加12%气的伤害\n增加10%气的暴击率\n+250气上限."
+    },
+    "BlackFusionPants": {
+      "Name": "Black Fusion Pants",
+      "NameTranslation": "黑色战斗裤",
+      "Tooltip": "20% Increased Ki Damage\n16% Increased Ki Crit Chance\n+500 Max Ki\nIncreased Ki Regen\n18% Increased movement speed",
+      "TooltipTranslation": "增加20%气的伤害\n增加16%气的暴击率\n+500气上限\n增加气的恢复\n增加18%移动速度"
+    },
+    "BlackFusionShirt": {
+      "Name": "Black Fusion Shirt",
+      "NameTranslation": "黑色战斗服",
+      "Tooltip": "24% Increased Ki Damage\n20% Increased Ki Crit Chance\n+1000 Max Ki\n+2 Maximum Charges\nIncreased Ki Charge Rate",
+      "TooltipTranslation": "增加24%气的伤害\n增加20%气的暴击率\n+1000气上限\n+2聚气速度\n增加聚气的恢复量"
+    },
+    "DemonLeggings": {
+      "Name": "Demon Leggings",
+      "NameTranslation": "魔人裤子",
+      "Tooltip": "13% Increased Ki Damage\n9% Increased Ki Crit Chance\n+300 Max Ki\nIncreased Ki Regen\n12% Increased movement speed",
+      "TooltipTranslation": "增加13%气的伤害\n增加9%气的暴击率\n+300气上限\n增加气的恢复\n增加12%移动速度"
+    },
+    "DemonShirt": {
+      "Name": "Demon Shirt",
+      "NameTranslation": "魔人上衣",
+      "Tooltip": "18% Increased Ki Damage\n14% Increased Ki Crit Chance\n+700 Max Ki\n+1 Maximum Charges",
+      "TooltipTranslation": "增加18%气的伤害\n增加14%气的暴击率\n+700气上限\n+1聚气速度"
+    },
+    "EliteSaiyanBreastplate": {
+      "Name": "Elite Saiyan Breastplate",
+      "NameTranslation": "精英赛亚人战斗服上衣",
+      "Tooltip": "26% Increased Ki Damage\n24% Increased Ki Crit Chance\n+1000 Max Ki\n+3 Maximum Charges\nIncreased Ki Regen",
+      "TooltipTranslation": "增加26%气的伤害\n增加24%气的暴击率\n+1000气上限\n+3聚气速度\n增加气的恢复"
+    },
+    "EliteSaiyanLeggings": {
+      "Name": "Elite Saiyan Leggings",
+      "NameTranslation": "精英赛亚人战斗服裤子",
+      "Tooltip": "22% Increased Ki Damage\n18% Increased Ki Crit Chance\n+750 Max Ki\nIncreased Ki Regen\n22% Increased movement speed",
+      "TooltipTranslation": "增加22%气的伤害\n增加18%气的暴击率\n+750气上限\n增加气的恢复\n增加22%移动速度"
+    },
+    "HermitGi": {
+      "Name": "Turtle Hermit Gi",
+      "NameTranslation": "龟仙流战斗服上衣",
+      "Tooltip": "5% Increased Ki Damage\n3% Increased Ki Crit Chance\nIncreased ki regen",
+      "TooltipTranslation": "增加5%气的伤害\n增加3%气的暴击率\n增加气的恢复"
+    },
+    "HermitPants": {
+      "Name": "Turtle Hermit Pants",
+      "NameTranslation": "龟仙流战斗服裤子",
+      "Tooltip": "4% Increased Ki Damage\n4% Increased Ki Knockback\n+10% Increased movement speed",
+      "TooltipTranslation": "增加4%气的伤害\n增加4%气的击退力\n+增加10%移动速度"
+    },
+    "RadiantGreaves": {
+      "Name": "Radiant Greaves",
+      "NameTranslation": "能量战斗服裤子",
+      "Tooltip": "14% Increased Ki Damage\n24% Increased Ki Crit Chance\n+750 Max Ki\nIncreased Ki Regen\n26% Increased movement speed",
+      "TooltipTranslation": "增加14%气的伤害\n增加24%气的暴击率\n+750气上限\n增加气的恢复\n增加26%移动速度"
+    },
+    "RadiantScalepiece": {
+      "Name": "Radiant Scalepiece",
+      "NameTranslation": "能量战斗服上衣",
+      "Tooltip": "24% Increased Ki Damage\n16% Increased Ki knockback\n+1500 Max Ki\n+4 Maximum Charges\nReduced flight ki usage",
+      "TooltipTranslation": "增加24%气的伤害\n增加16%气的击退力\n+1500气上限\n+4聚气速度\n减少战斗消耗的气"
+    },
+    "RadiantVisor": {
+      "Name": "Radiant Visor",
+      "NameTranslation": "能量战斗服眼罩",
+      "Tooltip": "18% Increased Ki Damage\n24% Increased Ki crit\n+750 Max Ki\nIncreased flight speed",
+      "TooltipTranslation": "增加18%气的伤害\n增加24%气的暴击率\n+750气上限\n增加战斗速度"
+    },
+    "SaiyanBreastplate": {
+      "Name": "Saiyan Battle Breastplate",
+      "NameTranslation": "赛亚人战斗服上衣",
+      "Tooltip": "10% Increased Ki Damage\n6% Increased Ki Crit Chance\n+100 Max ki",
+      "TooltipTranslation": "增加10%气的伤害\n增加6%气的暴击率\n+100气上限"
+    },
+    "SaiyanLeggings": {
+      "Name": "Saiyan Battle Leggings",
+      "NameTranslation": "赛亚人战斗服裤子",
+      "Tooltip": "7% Increased Ki Damage\n5% Increased Ki Crit Chance\n16% Increased movement speed",
+      "TooltipTranslation": "增加7%气的伤害\n增加5%气的暴击率\n增加16%移动速度"
+    },
+    "SaiyanScoutPants": {
+      "Name": "Saiyan Scout Pants",
+      "NameTranslation": "赛亚人侦查裤子",
+      "Tooltip": "2% Increased Ki Damage\n2% Increased Ki Knockback\n+6% Increased movement speed",
+      "TooltipTranslation": "增加2%气的伤害\n增加2%气的击退力\n+增加6%移动速度"
+    },
+    "SaiyanScoutScalemail": {
+      "Name": "Saiyan Scout Scalemail",
+      "NameTranslation": "赛亚人侦查上衣",
+      "Tooltip": "3% Increased Ki Damage\n2% Increased Ki Crit Chance\n5% reduced ki usage",
+      "TooltipTranslation": "增加3%气的伤害\n增加2%气的暴击率\n减少5%气的消耗"
+    },
+    "ChlorophyteHeadpiece": {
+      "Name": "Chlorophyte Headpiece",
+      "NameTranslation": "头顶发绿awa",
+      "Tooltip": "16% Increased Ki Damage\n12% Increased Ki Crit Chance\nMaximum Ki increased by 500.",
+      "TooltipTranslation": "增加16%气的伤害\n增加12%气的暴击率\n+500上限."
+    },
+    "CobaltCrown": {
+      "Name": "Cobalt Crown",
+      "NameTranslation": "钴头冠",
+      "Tooltip": "9% Increased Ki Damage\n6% Increased Ki Crit Chance",
+      "TooltipTranslation": "增加9%气的伤害\n增加6%气的暴击率"
+    },
+    "HallowedFedora": {
+      "Name": "Hallowed Fedora",
+      "NameTranslation": "神圣头盔",
+      "Tooltip": "13% Increased Ki Damage\n11% Increased Ki Crit Chance\nMaximum Ki increased by 300.",
+      "TooltipTranslation": "增加13%气的伤害\n增加11%气的暴击率\n+300气上限."
+    },
+    "MythrilGlasses": {
+      "Name": "Mythril Glasses",
+      "NameTranslation": "秘银眼镜",
+      "Tooltip": "11% Increased Ki Damage\n6% Increased Ki Crit Chance\nMaximum Ki increased by 100.",
+      "TooltipTranslation": "增加11%气的伤害\n增加6%气的暴击率\n+100气上限."
+    },
+    "OrichalcumHat": {
+      "Name": "Orichalcum Hat",
+      "NameTranslation": "山铜头盔",
+      "Tooltip": "10% Increased Ki Damage\n7% Increased Ki Crit Chance\nMaximum Ki increased by 100.",
+      "TooltipTranslation": "增加10%气的伤害\n增加7%气的暴击率\n+100气上限."
+    },
+    "PalladiumBlindfoldCrown": {
+      "Name": "Palladium Blindfold-Crown",
+      "NameTranslation": "钯金头盔",
+      "Tooltip": "9% Increased Ki Damage\n6% Increased Ki Crit Chance",
+      "TooltipTranslation": "增加9%气的伤害\n增加6%气的暴击率"
+    },
+    "TitaniumCap": {
+      "Name": "Titanium Cap",
+      "NameTranslation": "钛金头盔",
+      "Tooltip": "14% Increased Ki Damage\n9% Increased Ki Crit Chance\nMaximum Ki increased by 250.",
+      "TooltipTranslation": "增加14%气的伤害\n增加9%气的暴击率\n+250气上限."
+    },
+    "CanadianDemonLeggings": {
+      "Name": "Canadian Demon Leggings",
+      "NameTranslation": "魔人裤子改",
+      "Tooltip": "20% Increased Ki Damage\n16% Increased Ki Crit Chance\n+500 Max Ki\nIncreased Ki Regen\n18% Increased movement speed",
+      "TooltipTranslation": "增加20%气的伤害\n增加16%气的暴击率\n+500气上限\n增加气的恢复\n增加18%移动速度"
+    },
+    "CanadianDemonShirt": {
+      "Name": "Canadian Demon Shirt",
+      "NameTranslation": "魔人上衣改",
+      "Tooltip": "24% Increased Ki Damage\n20% Increased Ki Crit Chance\n+1000 Max Ki\n+2 Maximum Charges",
+      "TooltipTranslation": "增加24%气的伤害\n增加20%气的暴击率\n+1000气上限\n+2聚气速度"
+    },
+    "GreenGodHead": {
+      "Name": "Green God Head",
+      "NameTranslation": "界王神的绿色脑袋",
+      "Tooltip": "'The head of a god of morality.'",
+      "TooltipTranslation": "'你懂的.'"
+    },
+    "CoarseRock": {
+      "Name": "Coarse Rock",
+      "NameTranslation": "碎岩",
+      "Tooltip": "A dried out and compressed piece of sand.",
+      "TooltipTranslation": "干燥压缩的沙子."
+    },
+    "BukuujutsuVol1": {
+      "Name": "Bukuujutsu Guide Vol 1 - Chorus Aeria",
+      "NameTranslation": "舞空术入门 Vol 1 - 凌云枫落著",
+      "Tooltip": "'It has an ancient technique inscribed in it, holding it makes you feel lighter.'",
+      "TooltipTranslation": "'让你能飞起来'"
+    },
+    "BukuujutsuVol2": {
+      "Name": "Bukuujutsu Guide Vol 2 - Lux Ruinam",
+      "NameTranslation": "舞空术进阶 Vol 2 - 凌云枫落著",
+      "Tooltip": "'It has an ancient technique inscribed in it, holding it makes your feet feel softer.'",
+      "TooltipTranslation": "'让你的双腿更加柔软'"
+    },
+    "BukuujutsuVol3": {
+      "Name": "Bukuujutsu Guide Vol 3 - Fugam Arriperent",
+      "NameTranslation": "舞空术高级 Vol 3 - 凌云枫落著",
+      "Tooltip": "'It has an ancient technique inscribed in it, holding it makes your ki feel calmer.'",
+      "TooltipTranslation": "'让你的气更加平静'"
+    },
+    "DisgustingGoop": {
+      "Name": "Disgusting Goop",
+      "NameTranslation": "恶心的玩意",
+      "Tooltip": "Stablizes Ki but tastes disgusting.",
+      "TooltipTranslation": "稳定你的气,味道更恶心."
+    },
+    "KaioFragment1": {
+      "Name": "Kaioken 3x",
+      "NameTranslation": "界王拳 3x",
+      "Tooltip": "Unlocks the next level of kaioken.",
+      "TooltipTranslation": "解锁下个等级的界王拳."
+    },
+    "KaioFragment2": {
+      "Name": "Kaioken 4x",
+      "NameTranslation": "界王拳 4x",
+      "Tooltip": "Unlocks the next level of kaioken.",
+      "TooltipTranslation": "解锁下个等级的界王拳."
+    },
+    "KaioFragment3": {
+      "Name": "Kaioken 10x",
+      "NameTranslation": "界王拳 10x",
+      "Tooltip": "Unlocks the next level of kaioken.",
+      "TooltipTranslation": "解锁下个等级的界王拳."
+    },
+    "KaioFragment4": {
+      "Name": "Kaioken 20x",
+      "NameTranslation": "界王拳 20x",
+      "Tooltip": "Unlocks the next level of kaioken.",
+      "TooltipTranslation": "解锁下个等级的界王拳."
+    },
+    "KaioFragmentFirst": {
+      "Name": "Kaioken",
+      "NameTranslation": "界王拳",
+      "Tooltip": "Unlocks an ancient technique.",
+      "TooltipTranslation": "解锁界王拳."
+    },
+    "KiEssence1": {
+      "Name": "Novice Ki Scroll",
+      "NameTranslation": "气 入门卷轴",
+      "Tooltip": "Increases your ki charge rate.",
+      "TooltipTranslation": "增加你的聚气回复量."
+    },
+    "KiEssence2": {
+      "Name": "Student Ki Scroll",
+      "NameTranslation": "气 进阶卷轴",
+      "Tooltip": "Increases your ki charge rate.",
+      "TooltipTranslation": "增加你的聚气回复量."
+    },
+    "KiEssence3": {
+      "Name": "Adept Ki Scroll",
+      "NameTranslation": "气 高级卷轴",
+      "Tooltip": "Increases your ki charge rate.",
+      "TooltipTranslation": "增加你的聚气回复量."
+    },
+    "KiEssence4": {
+      "Name": "Enraged Ki Scroll",
+      "NameTranslation": "气 强化卷轴",
+      "Tooltip": "Increases your ki charge rate.",
+      "TooltipTranslation": "增加你的聚气回复量."
+    },
+    "KiEssence5": {
+      "Name": "Master Ki Scroll",
+      "NameTranslation": "气 大师卷轴",
+      "Tooltip": "Increases your ki charge rate.",
+      "TooltipTranslation": "增加你的聚气回复量."
+    },
+    "KiFragment1": {
+      "Name": "Novice Ki Fragment",
+      "NameTranslation": "气 入门碎片",
+      "Tooltip": "Increases your max ki by 1000.",
+      "TooltipTranslation": "增加气上限1000."
+    },
+    "KiFragment2": {
+      "Name": "Student Ki Fragment",
+      "NameTranslation": "气 进阶碎片",
+      "Tooltip": "Increases your max ki by 2000.",
+      "TooltipTranslation": "增加气上限2000."
+    },
+    "KiFragment3": {
+      "Name": "Adept Ki Fragment",
+      "NameTranslation": "气 高级碎片",
+      "Tooltip": "Increases your max ki by 2000.",
+      "TooltipTranslation": "增加气上限2000."
+    },
+    "KiFragment4": {
+      "Name": "Enraged Ki Fragment",
+      "NameTranslation": "气 强化碎片",
+      "Tooltip": "Increases your max ki by 2000.",
+      "TooltipTranslation": "增加气上限2000."
+    },
+    "KiFragment5": {
+      "Name": "Master Ki Fragment",
+      "NameTranslation": "气 大师碎片",
+      "Tooltip": "Increases your max ki by 2000.",
+      "TooltipTranslation": "增加气上限2000."
+    },
+    "MRE": {
+      "Name": "MRE",
+      "NameTranslation": "MRE",
+      "Tooltip": "A full course meal, grants a variety of bonuses.",
+      "TooltipTranslation": "全套餐提供各种增益."
+    },
+    "KiPotion1": {
+      "Name": "Lesser Ki Potion",
+      "NameTranslation": "弱效气回复药",
+      "Tooltip": "Restores 330 Ki.",
+      "TooltipTranslation": "恢复 330 气."
+    },
+    "KiPotion2": {
+      "Name": "Ki Potion",
+      "NameTranslation": "弱效气回复药",
+      "Tooltip": "Restores 640 Ki.",
+      "TooltipTranslation": "恢复 640 气."
+    },
+    "KiPotion3": {
+      "Name": "Greater Ki Potion",
+      "NameTranslation": "气回复药",
+      "Tooltip": "Restores 1080 Ki.",
+      "TooltipTranslation": "恢复 1080 气."
+    },
+    "KiPotion4": {
+      "Name": "Super Ki Potion",
+      "NameTranslation": "强效气回复药",
+      "Tooltip": "Restores 2180 Ki.",
+      "TooltipTranslation": "恢复 2180 气."
+    },
+    "KiPotion5": {
+      "Name": "Overflowing Ki Potion",
+      "NameTranslation": "超级气回复药",
+      "Tooltip": "Restores 5100 Ki.",
+      "TooltipTranslation": "恢复 5100 气."
+    },
+    "KiStimulant": {
+      "Name": "Ki Stimulant",
+      "NameTranslation": "气兴奋剂",
+      "Tooltip": "Stimulates your body into enhancing ki.",
+      "TooltipTranslation": "刺激你身体的气."
+    },
+    "SenzuBean": {
+      "Name": "Senzu Bean",
+      "NameTranslation": "仙豆",
+      "Tooltip": "Restores your body and Ki",
+      "TooltipTranslation": "恢复你的身体和气"
+    },
+    "DivineTestItem": {
+      "Name": "Divine Test Item",
+      "NameTranslation": "Divine Test Item",
+      "Tooltip": "Gives the divine trait",
+      "TooltipTranslation": "Gives the divine trait"
+    },
+    "LegendaryTestItem": {
+      "Name": "Legendary Test Item",
+      "NameTranslation": "Legendary Test Item",
+      "Tooltip": "Gives the legendary trait",
+      "TooltipTranslation": "Gives the legendary trait"
+    },
+    "LSSJ2TestItem": {
+      "Name": "LSSJ2 Test Item",
+      "NameTranslation": "LSSJ2 Test Item",
+      "Tooltip": "Manually activates the lssj2 transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the lssj2 transformation cutscene and unlocks it."
+    },
+    "LSSJTestItem": {
+      "Name": "LSSJ Test Item",
+      "NameTranslation": "LSSJ Test Item",
+      "Tooltip": "Manually activates the lssj transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the lssj transformation cutscene and unlocks it."
+    },
+    "PrimalTestItem": {
+      "Name": "Primal Test Item",
+      "NameTranslation": "Primal Test Item",
+      "Tooltip": "Gives the primal trait",
+      "TooltipTranslation": "Gives the primal trait"
+    },
+    "ProdigyTestItem": {
+      "Name": "Prodigy Test Item",
+      "NameTranslation": "Prodigy Test Item",
+      "Tooltip": "Gives the prodigy trait",
+      "TooltipTranslation": "Gives the prodigy trait"
+    },
+    "SSJ2MasteryTestItem": {
+      "Name": "SSJ2 Mastery Test Item",
+      "NameTranslation": "SSJ2 Mastery Test Item",
+      "Tooltip": "Manually Upgrades your ssj2 mastery. Each use increases it by 0.25",
+      "TooltipTranslation": "Manually Upgrades your ssj2 mastery. Each use increases it by 0.25"
+    },
+    "SSJ2TestItem": {
+      "Name": "SSJ2 Test Item",
+      "NameTranslation": "SSJ2 Test Item",
+      "Tooltip": "Manually activates the ssj2 transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the ssj2 transformation cutscene and unlocks it."
+    },
+    "SSJ3MasteryTestItem": {
+      "Name": "SSJ3 Mastery Test Item",
+      "NameTranslation": "SSJ3 Mastery Test Item",
+      "Tooltip": "Manually Upgrades your ssj3 mastery. Each use increases it by 0.25",
+      "TooltipTranslation": "Manually Upgrades your ssj3 mastery. Each use increases it by 0.25"
+    },
+    "SSJ3TestItem": {
+      "Name": "SSJ3 Test Item",
+      "NameTranslation": "SSJ3 Test Item",
+      "Tooltip": "Manually activates the ssj3 transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the ssj3 transformation cutscene and unlocks it."
+    },
+    "SSJGTestItem": {
+      "Name": "SSJG Test Item",
+      "NameTranslation": "SSJG Test Item",
+      "Tooltip": "Manually activates the ssjg transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the ssjg transformation cutscene and unlocks it."
+    },
+    "SSJMasteryTestItem": {
+      "Name": "SSJ Mastery Test Item",
+      "NameTranslation": "SSJ Mastery Test Item",
+      "Tooltip": "Manually Upgrades your ssj1 mastery. Each use increases it by 0.25",
+      "TooltipTranslation": "Manually Upgrades your ssj1 mastery. Each use increases it by 0.25"
+    },
+    "SSJTestItem": {
+      "Name": "SSJ Test Item",
+      "NameTranslation": "SSJ Test Item",
+      "Tooltip": "Manually activates the ssj transformation cutscene and unlocks it.",
+      "TooltipTranslation": "Manually activates the ssj transformation cutscene and unlocks it."
+    },
+    "TraitRemover": {
+      "Name": "Trait Remover",
+      "NameTranslation": "Trait Remover",
+      "Tooltip": "Removes all traits.",
+      "TooltipTranslation": "Removes all traits."
+    },
+    "UIOmenTestItem": {
+      "Name": "UI Omen Test Item",
+      "NameTranslation": "UI Omen Test Item",
+      "Tooltip": "Activates Ultra Instinct -Sign-\nWIP, this is just to show the aura sprite.",
+      "TooltipTranslation": "Activates Ultra Instinct -Sign-\nWIP, this is just to show the aura sprite."
+    },
+    "TransmissionPura": {
+      "Name": "I.T. Tome Vol 3 - Pura Facilioris Transmissus",
+      "NameTranslation": "I.T. Tome Vol 3 - Pura Facilioris Transmissus",
+      "Tooltip": "'It holds an alien power, bending space to your will with ease.'",
+      "TooltipTranslation": "'It holds an alien power, bending space to your will with ease.'"
+    },
+    "TransmissionTeleport": {
+      "Name": "I.T. Tome Vol 2 - Ianuae Magicae",
+      "NameTranslation": "I.T. Tome Vol 2 - Ianuae Magicae",
+      "Tooltip": "'It holds an alien power, bending space to your will.'",
+      "TooltipTranslation": "'It holds an alien power, bending space to your will.'"
+    },
+    "TransmissionVanish": {
+      "Name": "I.T. Tome Vol 1 - Dissipati Peribunt",
+      "NameTranslation": "I.T. Tome Vol 1 - Dissipati Peribunt",
+      "Tooltip": "'It holds an alien power, bending space to seek beacons of ki.'",
+      "TooltipTranslation": "'It holds an alien power, bending space to seek beacons of ki.'"
+    },
+    "DBNote": {
+      "Name": "Tattered Note",
+      "NameTranslation": "破烂的笔记",
+      "Tooltip": "An old note attached to the dragon ball.\n'This dragon ball is a very 強力な item, \n'集める the other 6 散在 around the world\n'for チャンス to grant your 最も深い wishes.'",
+      "TooltipTranslation": "总之是告诉你集齐7个龙珠有用"
+    },
+    "DragonRadar1": {
+      "Name": "Dragon Radar MK1",
+      "NameTranslation": "龙珠雷达MK1",
+      "Tooltip": "A low tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with bad accuracy,\nGetting too close to a dragon ball will overload the radar.",
+      "TooltipTranslation": "A low tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with bad accuracy,\nGetting too close to a dragon ball will overload the radar."
+    },
+    "DragonRadar2": {
+      "Name": "Dragon Radar MK2",
+      "NameTranslation": "龙珠雷达MK2",
+      "Tooltip": "A medium tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with reasonable accuracy,\nGetting too close to a dragon ball will overload the radar.",
+      "TooltipTranslation": "A medium tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with reasonable accuracy,\nGetting too close to a dragon ball will overload the radar."
+    },
+    "DragonRadar3": {
+      "Name": "Dragon Radar MK3",
+      "NameTranslation": "龙珠雷达MK3",
+      "Tooltip": "A high tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with high accuracy,\nGetting too close to a dragon ball will overload the radar.",
+      "TooltipTranslation": "A high tech piece of equipment used to locate dragon balls.\nHolding this will point you in the direction of the nearest dragon ball with high accuracy,\nGetting too close to a dragon ball will overload the radar."
+    },
+    "FiveStarDB": {
+      "Name": "5 Star Dragon Ball",
+      "NameTranslation": "5星球",
+      "Tooltip": "A mystical ball with 5 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 5 stars inscribed on it."
+    },
+    "FourStarDB": {
+      "Name": "4 Star Dragon Ball",
+      "NameTranslation": "4星球",
+      "Tooltip": "A mystical ball with 4 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 4 stars inscribed on it."
+    },
+    "OneStarDB": {
+      "Name": "1 Star Dragon Ball",
+      "NameTranslation": "1星球",
+      "Tooltip": "A mystical ball with 1 star inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 1 star inscribed on it."
+    },
+    "SevenStarDB": {
+      "Name": "7 Star Dragon Ball",
+      "NameTranslation": "7星球",
+      "Tooltip": "A mystical ball with 7 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 7 stars inscribed on it."
+    },
+    "SixStarDB": {
+      "Name": "6 Star Dragon Ball",
+      "NameTranslation": "6星球",
+      "Tooltip": "A mystical ball with 6 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 6 stars inscribed on it."
+    },
+    "ThreeStarDB": {
+      "Name": "3 Star Dragon Ball",
+      "NameTranslation": "3星球",
+      "Tooltip": "A mystical ball with 3 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 3 stars inscribed on it."
+    },
+    "TwoStarDB": {
+      "Name": "2 Star Dragon Ball",
+      "NameTranslation": "2星球",
+      "Tooltip": "A mystical ball with 2 stars inscribed on it.",
+      "TooltipTranslation": "A mystical ball with 2 stars inscribed on it."
+    },
+    "EmptyNecklace": {
+      "Name": "Empty Necklace",
+      "NameTranslation": "项链带子",
+      "Tooltip": "'It seems you can attach a gem to it.'",
+      "TooltipTranslation": "'看起来可以镶嵌宝石.'"
+    },
+    "KaiTableItem": {
+      "Name": "Kai Table",
+      "NameTranslation": "界王工作台",
+      "Tooltip": "'It pulses with divine pressure, it seems to entrance you.'",
+      "TooltipTranslation": "'做界王相关的玩意.'"
+    },
+    "KatchinScale": {
+      "Name": "Katchin Scale",
+      "NameTranslation": "大鱼鳞片",
+      "Tooltip": "'A scale with incredible durability ripped from a massive fish.'",
+      "TooltipTranslation": "扯下来的鳞片"
+    },
+    "KiBeaconItem": {
+      "Name": "Ki Beacon",
+      "NameTranslation": "Ki Beacon",
+      "Tooltip": "'Radiates Ki you can lock on to with Instant Transmission.'",
+      "TooltipTranslation": "'Radiates Ki you can lock on to with Instant Transmission.'"
+    },
+    "KiLanternItem": {
+      "Name": "Ki Diffuser",
+      "NameTranslation": "气扩散器",
+      "Tooltip": "'It radiates with the glow of ki energy.'\nGives slight ki regen when placed.",
+      "TooltipTranslation": "气的回复速度略微提升."
+    },
+    "KiOrb": {
+      "Name": "Ki Orb",
+      "NameTranslation": "气",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.KiOrb"
+    },
+    "KiOrb2": {
+      "Name": "Super Ki Orb",
+      "NameTranslation": "气",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.KiOrb2"
+    },
+    "AstralEssentia": {
+      "Name": "Astral Essentia",
+      "NameTranslation": "星芒",
+      "Tooltip": "'The sky's astral energy emanates from within.'",
+      "TooltipTranslation": "'天空星体的内部能量.'"
+    },
+    "DemonicSoul": {
+      "Name": "Demonic Soul",
+      "NameTranslation": "恶魔灵魂",
+      "Tooltip": "'A fragment of the devil's rage.'",
+      "TooltipTranslation": "'愤怒恶魔的灵魂碎片.'"
+    },
+    "DivineThreads": {
+      "Name": "Divine Threads",
+      "NameTranslation": "神圣布料",
+      "Tooltip": "'A unbelievably soft material that radiates a divine-like energy.'",
+      "TooltipTranslation": "'散发神圣能量的布料.'"
+    },
+    "EarthenShard": {
+      "Name": "Earthen Shard",
+      "NameTranslation": "土灵碎片",
+      "Tooltip": "'A fragment of the land's soul.'",
+      "TooltipTranslation": "'大地之魂.'"
+    },
+    "AngerKiCrystal": {
+      "Name": "Angerful Ki Crystal",
+      "NameTranslation": "愤怒的气晶体",
+      "Tooltip": "'The corrupt rage of the world lives within.'",
+      "TooltipTranslation": "'The corrupt rage of the world lives within.'"
+    },
+    "CalmKiCrystal": {
+      "Name": "Calm Ki Crystal",
+      "NameTranslation": "冷静的气晶体",
+      "Tooltip": "'The calm force of nature lives within.'",
+      "TooltipTranslation": "'The calm force of nature lives within.'"
+    },
+    "PridefulKiCrystal": {
+      "Name": "Prideful Ki Crystal",
+      "NameTranslation": "傲慢的气晶体",
+      "Tooltip": "'The prideful flame of the world lives within.'",
+      "TooltipTranslation": "'The prideful flame of the world lives within.'"
+    },
+    "PureKiCrystal": {
+      "Name": "Pure Ki Crystal",
+      "NameTranslation": "纯净的气晶体",
+      "Tooltip": "'The glowing radiance of the world lives within.'",
+      "TooltipTranslation": "'The glowing radiance of the world lives within.'"
+    },
+    "StableKiCrystal": {
+      "Name": "Stable Ki Crystal",
+      "NameTranslation": "稳定的气晶体",
+      "Tooltip": "'The common spirits of the world live within.'",
+      "TooltipTranslation": "'The common spirits of the world live within.'"
+    },
+    "RadiantFragment": {
+      "Name": "Radiant Fragment",
+      "NameTranslation": "能量碎片",
+      "Tooltip": "'The endurance of the cosmos crackles around this fragment'",
+      "TooltipTranslation": "'能量碎片'"
+    },
+    "SatanicCloth": {
+      "Name": "Satanic Cloth",
+      "NameTranslation": "撒旦布料",
+      "Tooltip": "'The cloth radiates with animosity.'",
+      "TooltipTranslation": "'散发着敌意的布料.'"
+    },
+    "ScrapMetal": {
+      "Name": "Scrap Metal",
+      "NameTranslation": "废金属",
+      "Tooltip": "'An old piece of metal, seems like something a junk merchant would sell.'",
+      "TooltipTranslation": "'你基本做啥都用得到.'"
+    },
+    "SkeletalEssence": {
+      "Name": "Skeletal Essence",
+      "NameTranslation": "骨骼精华",
+      "Tooltip": "'A chunk of the dungeon's inhabitants.'",
+      "TooltipTranslation": "'地牢那有一大堆.'"
+    },
+    "SoulofEntity": {
+      "Name": "Soul of Entity",
+      "NameTranslation": "实体灵魂",
+      "Tooltip": "'The soul of a reanimated foe.'",
+      "TooltipTranslation": "'敌人的灵魂.'"
+    },
+    "Choco1": {
+      "Name": "Chocolate",
+      "NameTranslation": "巧克力",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.Choco1"
+    },
+    "Choco2": {
+      "Name": "Chocolate",
+      "NameTranslation": "巧克力",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.Choco2"
+    },
+    "Choco3": {
+      "Name": "Chocolate",
+      "NameTranslation": "巧克力",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.Choco3"
+    },
+    "CoffeeCandy": {
+      "Name": "Coffee Candy",
+      "NameTranslation": "咖啡糖",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.CoffeeCandy"
+    },
+    "SSJGUnlockItem": {
+      "Name": "Godly Spirit",
+      "NameTranslation": "Godly Spirit",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.SSJGUnlockItem"
+    },
+    "NimbusWhistle": {
+      "Name": "Nimbus Whistle",
+      "NameTranslation": "筋斗云",
+      "Tooltip": "'Calls The Legendary Cloud, Nimbus.'",
+      "TooltipTranslation": "'你要不知道是啥我也没法告诉你.'"
+    },
+    "RadiantFragmentBlockItem": {
+      "Name": "Radiant Fragment Block",
+      "NameTranslation": "能量碎片方块",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.RadiantFragmentBlockItem"
+    },
+    "RefinedMetal": {
+      "Name": "Refined Metal",
+      "NameTranslation": "精炼金属",
+      "Tooltip": "'A high quality refined piece of metal, it is incredibly durable.'",
+      "TooltipTranslation": "'高品质的精炼金属，很耐用.'"
+    },
+    "RadiantHamaxe": {
+      "Name": "Radiant Hamaxe",
+      "NameTranslation": "能量斧锤",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.RadiantHamaxe"
+    },
+    "RadiantPickaxe": {
+      "Name": "Radiant Pickaxe",
+      "NameTranslation": "能量镐",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.RadiantPickaxe"
+    },
+    "KiFist1": {
+      "Name": "Fist",
+      "NameTranslation": "拳",
+      "Tooltip": "'The most essential skill of any martial artist.'",
+      "TooltipTranslation": "'武术家的基本技能.'"
+    },
+    "FarmerShotgun": {
+      "Name": "Farmer's Shotgun",
+      "NameTranslation": "农户的猎枪",
+      "Tooltip": "'A weapon forged by the gods.'",
+      "TooltipTranslation": "'神灵伪造的武器.'"
+    },
+    "TrunksSword": {
+      "Name": "Trunks' Sword",
+      "NameTranslation": "特南克斯的剑",
+      "Tooltip": "Has some armour penetration.\n-Tier 4-",
+      "TooltipTranslation": "有一些护甲穿透力.\n-4级-"
+    },
+    "YajirobesKatana": {
+      "Name": "弥次郎兵卫的刀",
+      "NameTranslation": "",
+      "Tooltip": "-Tier 2-",
+      "TooltipTranslation": "-2级-"
+    },
+    "EnergyWave": {
+      "Name": "Energy Wave",
+      "NameTranslation": "气功波",
+      "Tooltip": "Maximum Charges = 3\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级3\n按住右键充能\n左键释放"
+    },
+    "KiBeam": {
+      "Name": "Ki Beam",
+      "NameTranslation": "射线",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.KiBeam"
+    },
+    "KiBlast": {
+      "Name": "Ki Blast",
+      "NameTranslation": "气弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.KiBlast"
+    },
+    "DestructoDisk": {
+      "Name": "Destructo Disk",
+      "NameTranslation": "气元斩",
+      "Tooltip": "'Its a frizbee, I swear.'",
+      "TooltipTranslation": "'这是个飞盘.'"
+    },
+    "DoubleSunday": {
+      "Name": "Double Sunday",
+      "NameTranslation": "双重星期天",
+      "Tooltip": "Maximum Charges = 4\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级4\n按住右键充能\n左键释放"
+    },
+    "EnergyBlastBarrage": {
+      "Name": "Energy Blast Barrage",
+      "NameTranslation": "能量弹幕爆射",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.EnergyBlastBarrage"
+    },
+    "Masenko": {
+      "Name": "Masenko",
+      "NameTranslation": "魔闪光",
+      "Tooltip": "Maximum Charges = 5\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级5\n按住右键充能\n左键释放"
+    },
+    "SpiritBall": {
+      "Name": "Spirit Ball",
+      "NameTranslation": "燥气弹",
+      "Tooltip": "'Yamcha!.'",
+      "TooltipTranslation": "'雅木茶!.'"
+    },
+    "BlightedFang": {
+      "Name": "Blood Thief",
+      "NameTranslation": "吸血气弹",
+      "Tooltip": "Fires a Life-Stealing ki blast.",
+      "TooltipTranslation": "可以吸血的气弹."
+    },
+    "DirtyFireworks": {
+      "Name": "Dirty Fireworks",
+      "NameTranslation": "焰火爆炸",
+      "Tooltip": "'Freezy Puff!.'",
+      "TooltipTranslation": "'你已经死了!.'"
+    },
+    "GalickGun": {
+      "Name": "Galick Gun",
+      "NameTranslation": "加里克枪",
+      "Tooltip": "Maximum Charges = 7\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级7\n按住右键充能\n左键释放"
+    },
+    "HellzoneGrenade": {
+      "Name": "Hellzone Grenade",
+      "NameTranslation": "地狱手榴弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.HellzoneGrenade"
+    },
+    "Kamehameha": {
+      "Name": "Kamehameha",
+      "NameTranslation": "龟派气功波",
+      "Tooltip": "Maximum Charges = 6\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级6\n按住右键充能\n左键释放"
+    },
+    "BigBangAttack": {
+      "Name": "Big Bang Attack",
+      "NameTranslation": "大爆炸",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.BigBangAttack"
+    },
+    "EnergyShot": {
+      "Name": "Energy Shot",
+      "NameTranslation": "能量射击",
+      "Tooltip": "An enhanced version of a regular ki blast",
+      "TooltipTranslation": "An enhanced version of a regular ki blast"
+    },
+    "Scattershot": {
+      "Name": "Scatter Shot",
+      "NameTranslation": "散射弹幕",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.Scattershot"
+    },
+    "SpecialBeamCannon": {
+      "Name": "Makankosappo",
+      "NameTranslation": "魔惯光杀炮",
+      "Tooltip": "Maximum Charges = 6\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级6\n按住右键充能\n左键释放"
+    },
+    "SpiritBomb": {
+      "Name": "Spirit Bomb",
+      "NameTranslation": "元气弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.SpiritBomb"
+    },
+    "SuperKamehameha": {
+      "Name": "Super Kamehameha",
+      "NameTranslation": "超级龟派气功波",
+      "Tooltip": "Maximum Charges = 8\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级8\n按住右键充能\n左键释放"
+    },
+    "TrapShooter": {
+      "Name": "Trap Shooter",
+      "NameTranslation": "陷阱能量弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.TrapShooter"
+    },
+    "DestructoDiskAssault": {
+      "Name": "Destructo Disk Assault",
+      "NameTranslation": "分裂气元斩",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.DestructoDiskAssault"
+    },
+    "FinalFlash": {
+      "Name": "Final Flash",
+      "NameTranslation": "最终闪光",
+      "Tooltip": "Maximum Charges = 9\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级9\n按住右键充能\n左键释放\n没错贝吉塔的大招"
+    },
+    "Kamehamehax10": {
+      "Name": "Kamehameha x10",
+      "NameTranslation": "龟派气功 x10",
+      "Tooltip": "Maximum Charges = 8\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级8\n按住右键充能\n左键释放"
+    },
+    "SuperEnergyBarrage": {
+      "Name": "Super Energy Barrage",
+      "NameTranslation": "超级能量弹幕",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.SuperEnergyBarrage"
+    },
+    "Supernova": {
+      "Name": "Supernova",
+      "NameTranslation": "超新星",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.Supernova"
+    },
+    "BlackBlitz": {
+      "Name": "Black Power Ball",
+      "NameTranslation": "黑色能量弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.BlackBlitz"
+    },
+    "BlindingBlade": {
+      "Name": "Blinding Blade",
+      "NameTranslation": "强化气元斩",
+      "Tooltip": "Flings a ki-coated disk that bounces off walls.",
+      "TooltipTranslation": "Flings a ki-coated disk that bounces off walls."
+    },
+    "CandyLaser": {
+      "Name": "Candy Laser",
+      "NameTranslation": "糖果光线",
+      "Tooltip": "Turns your foes to chocolate, does not work on bosses.",
+      "TooltipTranslation": "转变目标为巧克力,对boss无效"
+    },
+    "FinalShine": {
+      "Name": "Final Shine",
+      "NameTranslation": "最终闪光",
+      "Tooltip": "Maximum Charges = 12\nRight Click Hold to Charge\nLeft Click to Fire",
+      "TooltipTranslation": "最大蓄力等级12\n按住右键充能\n左键释放"
+    },
+    "HolyWrath": {
+      "Name": "Holy Wrath",
+      "NameTranslation": "神圣愤怒",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.HolyWrath"
+    },
+    "MajinExtinctionAttack": {
+      "Name": "Majin Extinction Attack",
+      "NameTranslation": "魔人灭世能量弹",
+      "Tooltip": "'Human Extinction...'",
+      "TooltipTranslation": "'Human Extinction...'"
+    },
+    "RadialJavelin": {
+      "Name": "Radial Javelin",
+      "NameTranslation": "鬼知道怎么翻译这个",
+      "Tooltip": "Throws a volley of homing ki javelins.",
+      "TooltipTranslation": "投掷气的标枪."
+    },
+    "SuperSpiritBomb": {
+      "Name": "Super Spirit Bomb",
+      "NameTranslation": "超级精神炸弹",
+      "Tooltip": null,
+      "TooltipTranslation": "Mods.DBZMOD.ItemTooltip.SuperSpiritBomb"
+    },
+    "ZTableItem": {
+      "Name": "Z Table",
+      "NameTranslation": "Z 工作台",
+      "Tooltip": "'Looks like it could bend the essence of ki itself.'",
+      "TooltipTranslation": "'制作气相关的东西.'"
+    }
+  },
+  "SetBonus": {
+    "AdamantiteVisor": {
+      "SetBonus": "7% Increased Ki Damage",
+      "Translation": ""
+    },
+    "BlackFusionShirt": {
+      "SetBonus": "All damage is slowly increased while a boss is alive, limits at 300%.\n+100 Max Life",
+      "Translation": ""
+    },
+    "DemonShirt": {
+      "SetBonus": "Pressing `Armor Bonus` grants you Demonic Overdrive, granting infinite ki for a limited time.",
+      "Translation": ""
+    },
+    "EliteSaiyanBreastplate": {
+      "SetBonus": "Taking fatal damage will instead restore you to max life with x2 damage for a short time,\n1 minute cooldown.\n+150 Max Life",
+      "Translation": ""
+    },
+    "HermitGi": {
+      "SetBonus": "15% reduced ki usage and +200 Max Ki.",
+      "Translation": ""
+    },
+    "RadiantScalepiece": {
+      "SetBonus": "Hitting enemies heals a random amount of ki and fires off homing projectiles at nearby enemies.\nIncreased Ki Regen and +200 Max Life",
+      "Translation": ""
+    },
+    "SaiyanBreastplate": {
+      "SetBonus": "Drastically increased pickup range for ki orbs.\n+500 Max Ki and 8% Reduced Ki Usage",
+      "Translation": ""
+    },
+    "SaiyanScoutScalemail": {
+      "SetBonus": "+100 Max Ki.",
+      "Translation": ""
+    },
+    "ChlorophyteHeadpiece": {
+      "SetBonus": "Getting hit gives greatly increased life regen and ki regen.",
+      "Translation": ""
+    },
+    "CobaltCrown": {
+      "SetBonus": "15% increased ki knockback",
+      "Translation": ""
+    },
+    "HallowedFedora": {
+      "SetBonus": "9% Increased Ki Damage\n+200 Max Ki",
+      "Translation": ""
+    },
+    "MythrilGlasses": {
+      "SetBonus": "Ki orbs regenerate twice as much ki.",
+      "Translation": ""
+    },
+    "OrichalcumHat": {
+      "SetBonus": "Flower petals will fall on your target for extra damage",
+      "Translation": ""
+    },
+    "PalladiumBlindfoldCrown": {
+      "SetBonus": "Hitting an enemy has a chance to drop ki orbs",
+      "Translation": ""
+    },
+    "TitaniumCap": {
+      "SetBonus": "Briefly become invulnerable after striking an enemy",
+      "Translation": ""
+    },
+    "CanadianDemonShirt": {
+      "SetBonus": "Pressing `Armor Bonus` grants you Demonic Overdrive, granting infinite ki for a limited time.",
+      "Translation": ""
+    }
+  },
+  "ModifyTooltips": {}
+}

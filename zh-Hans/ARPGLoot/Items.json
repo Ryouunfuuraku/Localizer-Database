@@ -1,0 +1,30 @@
+{
+  "Items": {
+    "EternalReroll": {
+      "Name": "Tome of Identify",
+      "NameTranslation": "鉴定书",
+      "Tooltip": "Right click to identify an item\nSelects top left items first\nNot consumable",
+      "TooltipTranslation": "鉴定物品栏第一个物品\n无限使用"
+    },
+    "itemReroll": {
+      "Name": "Essence of Favorable Fate",
+      "NameTranslation": "命运重铸",
+      "Tooltip": "Right click to reroll a single item\nSelects top left items first\nConsumable",
+      "TooltipTranslation": "重新鉴定物品栏第一个物品\n消耗品"
+    },
+    "magicUpgrade": {
+      "Name": "Orb of Alchemy",
+      "NameTranslation": "炼金宝珠",
+      "Tooltip": "Right click to upgrade a single magical item to rare quality\nSelects top left items first\nConsumable",
+      "TooltipTranslation": "提升物品栏第一个物品的等级\n消耗品"
+    },
+    "Reroll": {
+      "Name": "Scroll of Identify",
+      "NameTranslation": "鉴定卷轴",
+      "Tooltip": "Right click to identify a single item\nSelects top then left items first\nConsumable",
+      "TooltipTranslation": "鉴定物品栏第一个物品\n消耗品"
+    }
+  },
+  "SetBonus": {},
+  "ModifyTooltips": {}
+}

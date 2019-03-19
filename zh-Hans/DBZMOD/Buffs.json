@@ -1,0 +1,190 @@
+{
+  "Buffs": {
+    "ArmorCooldown": {
+      "Name": "Armor Cooldown",
+      "NameTranslation": "装甲冷却",
+      "Tip": "You must wait to use your armor bonus again.",
+      "TipTranslation": "你要过段时间才能再次使用护甲的奖励."
+    },
+    "ChlorophyteRegen": {
+      "Name": "Chlorophyte Regen",
+      "NameTranslation": "叶绿回复",
+      "Tip": "Ki and Health regen",
+      "TipTranslation": "气和生命恢复"
+    },
+    "DemonBonus": {
+      "Name": "Demonic Overdrive",
+      "NameTranslation": "恶魔过载",
+      "Tip": "Your energy feels limitless",
+      "TipTranslation": "你觉得你的能量没有极限"
+    },
+    "SSJSBuff": {
+      "Name": "Super Saiyan Spectrum",
+      "NameTranslation": "超级赛亚人光谱",
+      "Tip": "69x Damage, 69x Speed, Gives infinite ki regen\n'A form far beyond comprehension, only available to the true god Nuova.'",
+      "TipTranslation": "69倍伤害，69倍速度，给予无限的气恢复"
+    },
+    "DisgustingGoopBuff": {
+      "Name": "Disgusting Goop",
+      "NameTranslation": "恶心的玩意",
+      "Tip": "Your ki seems stablized, but you also feel sick.",
+      "TipTranslation": "你的气看起来很稳定，但是你觉得很恶心"
+    },
+    "EnhancedReserves": {
+      "Name": "Enhanced Reserves",
+      "NameTranslation": "储备增强",
+      "Tip": "Your ki reserves have been enhanced.",
+      "TipTranslation": "你的气上限得到了提升."
+    },
+    "KaiokenBuff": {
+      "Name": "Kaioken",
+      "NameTranslation": "界王拳",
+      "Tip": "Damage -100% Speed -100%\nKi Costs -100%",
+      "TipTranslation": "减少一倍的伤害速度和气的消耗"
+    },
+    "KatchinFeet": {
+      "Name": "Katchin Feet",
+      "NameTranslation": "Katchin 脚",
+      "Tip": "Your feet are infused with ki, making them as hard as katchin.",
+      "TipTranslation": "你的脚上布满了气和Katchin立方体一样坚硬."
+    },
+    "KiLanternBuff": {
+      "Name": "Ki Diffuser",
+      "NameTranslation": "气扩散器",
+      "Tip": "Gives some slight ki regen.",
+      "TipTranslation": "给你恢复轻微的气."
+    },
+    "KiPotionSickness": {
+      "Name": "Ki Potion Sickness",
+      "NameTranslation": "气药水冷却",
+      "Tip": "You feel sick at the thought of another ki potion.",
+      "TipTranslation": "再喝恶心了."
+    },
+    "KiStimulantBuff": {
+      "Name": "Ki Stimulance",
+      "NameTranslation": "气兴奋剂",
+      "Tip": "Your body is enhanced, passively regenerating ki.",
+      "TipTranslation": "身体增强然后被动的恢复气."
+    },
+    "LegendaryTrait": {
+      "Name": "Legendary",
+      "NameTranslation": "传奇",
+      "Tip": "You are the saiyan of legend.",
+      "TipTranslation": "你是赛亚人的传说."
+    },
+    "MREBuff": {
+      "Name": "MRE",
+      "NameTranslation": "MRE",
+      "Tip": "You feel extremely full and super refreshed.",
+      "TipTranslation": "你感觉棒极了."
+    },
+    "NimbusBuff": {
+      "Name": "Nimbus Cloud",
+      "NameTranslation": "筋斗云",
+      "Tip": "Only Those With True Hearts Can Ride This.",
+      "TipTranslation": "你懂的."
+    },
+    "ProdigyTrait": {
+      "Name": "Prodigy",
+      "NameTranslation": "神童",
+      "Tip": "You are truly gifted.\nFaster mastery gains.",
+      "TipTranslation": "你很有天赋.\n能快速掌握要点."
+    },
+    "SenzuCooldown": {
+      "Name": "Senzu Cooldown",
+      "NameTranslation": "仙豆冷却",
+      "Tip": "You feel too sick to eat another senzu.",
+      "TipTranslation": "你需要等待一段时间才能再吃下一颗仙豆"
+    },
+    "ASSJBuff": {
+      "Name": "Ascended Super Saiyan",
+      "NameTranslation": "变成超级赛亚人",
+      "Tip": "Damage +75% Speed +75%\nKi Costs +40%\nKi Drain: 69/s, 34/s when mastered",
+      "TipTranslation": "伤害速度提升75%\n气消耗增加40%\n气放出: 69/s, 当你是大师的时候降为34/s"
+    },
+    "LSSJ2Buff": {
+      "Name": "Legendary Super Saiyan 2",
+      "NameTranslation": "传奇超级赛亚人2",
+      "Tip": "Damage +220% Speed +220%\nKi Costs +190%\nKi Drain: 180/s",
+      "TipTranslation": "伤害速度提升220%\n气消耗增加190%\n气放出: 180/s"
+    },
+    "LSSJBuff": {
+      "Name": "Legendary Super Saiyan",
+      "NameTranslation": "传奇超级赛亚人",
+      "Tip": "Damage +130% Speed +130%\nKi Costs +110%\nKi Drain: 129/s",
+      "TipTranslation": "伤害速度提升130%\n气消耗增加110%\n气放出: 129/s"
+    },
+    "SSJ1Buff": {
+      "Name": "Super Saiyan",
+      "NameTranslation": "超级赛亚人",
+      "Tip": "Damage +50% Speed +50%\nKi Costs +25%\nKi Drain: 60/s, 30/s when mastered",
+      "TipTranslation": "伤害速度提升50%\n气消耗增加25%\n气放出: 60/s, 当你是大师的时候降为30/s"
+    },
+    "SSJ2Buff": {
+      "Name": "Super Saiyan 2",
+      "NameTranslation": "超级赛亚人 2",
+      "Tip": "Damage +125% Speed +125%\nKi Costs +62%\nKi Drain: 120/s, 60/s when mastered",
+      "TipTranslation": "伤害速度提升125%\n气消耗增加62%\n气放出: 120/s, 当你是大师的时候降为60/s"
+    },
+    "SSJ3Buff": {
+      "Name": "Super Saiyan 3",
+      "NameTranslation": "超级赛亚人 3",
+      "Tip": "Damage +190% Speed +190%\nKi Costs +95%\nKi Drain: 159/s, 80/s when mastered\n(Life drains when below 30% Max Ki)",
+      "TipTranslation": "伤害速度提升190%\n气消耗增加95%\n气放出: 159/s, 当你是大师的时候降为80/s\n(生命少于30% 消耗气上限)"
+    },
+    "SSJGBuff": {
+      "Name": "Super Saiyan God",
+      "NameTranslation": "超级赛亚人之神",
+      "Tip": "Damage +250% Speed +250%\nKi Costs +50%\nKi Drain: 135/s, 99/s when mastered\nSlightly increased health regen.",
+      "TipTranslation": "伤害速度提升250%\n气消耗增加50%\n气放出: 135/s, 当你是大师的时候降为99/s\n略微增加生命恢复."
+    },
+    "SuperKaiokenBuff": {
+      "Name": "Super Kaioken",
+      "NameTranslation": "超级界王拳",
+      "Tip": "Damage +125% Speed +125%\nKi Costs +62%\nKi Drain: 120/s, 60/s when mastered",
+      "TipTranslation": "伤害速度提升125%\n气消耗增加62%\n气放出: 120/s, 当你是大师的时候降为60/s"
+    },
+    "USSJBuff": {
+      "Name": "Ultra Super Saiyan",
+      "NameTranslation": "超级赛亚人Ultra",
+      "Tip": "Damage +90% Speed -10%\nKi Costs +60%\nKi Drain: 90/s, 45/s when mastered",
+      "TipTranslation": "伤害增加90% 速度减少10%\n气消耗增加60%\n气放出: 90/s, 当你是大师的时候降为45/s"
+    },
+    "TiredDebuff": {
+      "Name": "Exhausted",
+      "NameTranslation": "精疲力竭",
+      "Tip": "You have used too much Ki.",
+      "TipTranslation": "你用了太多的气."
+    },
+    "TransExhaustionBuff": {
+      "Name": "Transformation Exhaustion",
+      "NameTranslation": "变身冷却",
+      "Tip": "Your body can't handle another transformation.",
+      "TipTranslation": "你的身体需要休息."
+    },
+    "UIOmenBuff": {
+      "Name": "Ultra Instinct -Sign-",
+      "NameTranslation": "自在极意功 -Sign-",
+      "Tip": "The secret technique of the gods. Grants the ability to dodge any attack.",
+      "TipTranslation": "躲避所有攻击."
+    },
+    "UnknownLegendary": {
+      "Name": "???",
+      "NameTranslation": "???",
+      "Tip": "Your body seems a bit special.",
+      "TipTranslation": "你的身体看起来有点特别."
+    },
+    "ZenkaiBuff": {
+      "Name": "Zenkai",
+      "NameTranslation": "全开",
+      "Tip": "Your inherent saiyan ability is active.",
+      "TipTranslation": "你的赛亚人能力看起来很活跃."
+    },
+    "ZenkaiCooldown": {
+      "Name": "Zenkai Cooldown",
+      "NameTranslation": "全开冷却",
+      "Tip": "Your zenkai ability is on cooldown.",
+      "TipTranslation": "你的全开能力正在降低冷却时间."
+    }
+  }
+}

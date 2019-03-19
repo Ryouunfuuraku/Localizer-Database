@@ -1,0 +1,14 @@
+{
+  "NPCs": {
+    "MajinSlime": {
+      "Name": "Majin Slime",
+      "NameTranslation": "魔人史莱姆"
+    },
+    "MajinZombie": {
+      "Name": "Majin Zombie",
+      "NameTranslation": "魔人僵尸"
+    }
+  },
+  "ChatLines": {},
+  "ChatButtons": {}
+}
